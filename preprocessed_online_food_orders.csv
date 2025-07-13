@@ -1,0 +1,1001 @@
+order_id,customer_id,restaurant_id,order_value,delivery_fee,payment_method,discounts_and_offers,commission_fee,payment_processing_fee,refunds/chargebacks,order_date_time,delivery_date_time,order_day_of_week,delivery_day_of_week,order_hour,delivery_hour,discounts_and_offers
+1,C8270,R2924,1914,0,Credit Card,5% on App,150,47,0,2024-02-01 01:11:00,2024-02-01 02:39:00,Thursday,Thursday,1,2,5% on App
+2,C1860,R2054,986,40,Digital Wallet,10%,198,23,0,2024-02-02 22:11:00,2024-02-02 22:46:00,Friday,Friday,22,22,10%
+3,C6390,R2870,937,30,Cash on Delivery,15% New User,195,45,0,2024-01-31 05:54:00,2024-01-31 06:52:00,Wednesday,Wednesday,5,6,15% New User
+4,C6191,R2642,1463,50,Cash on Delivery,,146,27,0,2024-01-16 22:52:00,2024-01-16 23:38:00,Tuesday,Tuesday,22,23,No Discount
+5,C6734,R2799,1992,30,Cash on Delivery,50 off Promo,130,50,0,2024-01-29 01:19:00,2024-01-29 02:48:00,Monday,Monday,1,2,50 off Promo
+6,C7265,R2777,439,20,Cash on Delivery,10%,92,27,150,2024-01-25 04:36:00,2024-01-25 05:27:00,Thursday,Thursday,4,5,10%
+7,C1466,R2457,303,30,Digital Wallet,5% on App,144,12,50,2024-01-12 23:55:00,2024-01-13 00:48:00,Friday,Saturday,23,0,5% on App
+8,C5426,R2978,260,0,Credit Card,10%,55,19,0,2024-01-26 22:46:00,2024-01-27 00:36:00,Friday,Saturday,22,0,10%
+9,C6578,R2877,1663,40,Cash on Delivery,5% on App,116,48,0,2024-01-02 18:29:00,2024-01-02 20:23:00,Tuesday,Tuesday,18,20,5% on App
+10,C9322,R2161,491,40,Digital Wallet,10%,189,10,0,2024-01-05 00:50:00,2024-01-05 02:10:00,Friday,Friday,0,2,10%
+11,C2685,R2379,868,0,Cash on Delivery,5% on App,149,36,0,2024-01-01 17:02:00,2024-01-01 18:21:00,Monday,Monday,17,18,5% on App
+12,C1769,R2992,1800,20,Credit Card,15% New User,61,36,0,2024-01-09 17:15:00,2024-01-09 17:55:00,Tuesday,Tuesday,17,17,15% New User
+13,C7949,R2086,674,0,Cash on Delivery,,115,20,0,2024-01-05 16:43:00,2024-01-05 18:08:00,Friday,Friday,16,18,No Discount
+14,C3433,R2054,633,30,Digital Wallet,15% New User,51,14,50,2024-02-04 18:48:00,2024-02-04 20:28:00,Sunday,Sunday,18,20,15% New User
+15,C6311,R2475,1193,0,Credit Card,,192,16,0,2024-02-03 00:49:00,2024-02-03 02:00:00,Saturday,Saturday,0,2,No Discount
+16,C6051,R2799,992,0,Digital Wallet,15% New User,200,28,0,2024-01-15 20:46:00,2024-01-15 21:54:00,Monday,Monday,20,21,15% New User
+17,C7420,R2177,504,20,Credit Card,15% New User,130,38,0,2024-02-04 17:48:00,2024-02-04 19:26:00,Sunday,Sunday,17,19,15% New User
+18,C2184,R2390,707,30,Credit Card,10%,184,24,0,2024-01-13 15:41:00,2024-01-13 16:58:00,Saturday,Saturday,15,16,10%
+19,C5555,R2348,1798,50,Credit Card,50 off Promo,191,44,0,2024-01-31 17:27:00,2024-01-31 18:53:00,Wednesday,Wednesday,17,18,50 off Promo
+20,C4385,R2007,1714,50,Cash on Delivery,5% on App,119,46,100,2024-01-13 01:32:00,2024-01-13 02:22:00,Saturday,Saturday,1,2,5% on App
+21,C7396,R2832,1640,40,Digital Wallet,5% on App,164,21,0,2024-01-27 14:44:00,2024-01-27 16:35:00,Saturday,Saturday,14,16,5% on App
+22,C9666,R2312,927,0,Digital Wallet,5% on App,137,39,0,2024-01-05 10:18:00,2024-01-05 11:07:00,Friday,Friday,10,11,5% on App
+23,C3558,R2758,1243,40,Digital Wallet,,55,29,100,2024-01-23 03:00:00,2024-01-23 03:44:00,Tuesday,Tuesday,3,3,No Discount
+24,C8849,R2834,1937,20,Credit Card,5% on App,76,46,0,2024-02-07 16:46:00,2024-02-07 18:24:00,Wednesday,Wednesday,16,18,5% on App
+25,C3047,R2983,789,50,Cash on Delivery,5% on App,131,12,0,2024-01-13 08:46:00,2024-01-13 10:32:00,Saturday,Saturday,8,10,5% on App
+26,C3747,R2982,1811,0,Credit Card,10%,137,18,0,2024-01-12 02:35:00,2024-01-12 03:55:00,Friday,Friday,2,3,10%
+27,C1189,R2442,1001,20,Digital Wallet,15% New User,169,50,0,2024-01-11 16:36:00,2024-01-11 18:21:00,Thursday,Thursday,16,18,15% New User
+28,C3734,R2766,1340,20,Cash on Delivery,5% on App,73,48,100,2024-02-03 04:14:00,2024-02-03 05:45:00,Saturday,Saturday,4,5,5% on App
+29,C4005,R2327,155,0,Cash on Delivery,50 off Promo,151,35,0,2024-01-17 23:01:00,2024-01-18 00:55:00,Wednesday,Thursday,23,0,50 off Promo
+30,C5658,R2053,465,20,Cash on Delivery,5% on App,83,11,0,2024-02-05 22:00:00,2024-02-05 23:06:00,Monday,Monday,22,23,5% on App
+31,C2899,R2760,1822,0,Digital Wallet,,96,32,0,2024-01-29 13:35:00,2024-01-29 14:10:00,Monday,Monday,13,14,No Discount
+32,C8734,R2238,1627,0,Cash on Delivery,,73,32,0,2024-01-03 11:19:00,2024-01-03 12:59:00,Wednesday,Wednesday,11,12,No Discount
+33,C2267,R2228,1867,30,Cash on Delivery,,114,30,50,2024-02-01 04:04:00,2024-02-01 04:59:00,Thursday,Thursday,4,4,No Discount
+34,C2528,R2578,1890,40,Credit Card,5% on App,67,25,0,2024-01-23 11:40:00,2024-01-23 12:17:00,Tuesday,Tuesday,11,12,5% on App
+35,C4556,R2050,554,20,Credit Card,10%,93,18,0,2024-01-27 18:35:00,2024-01-27 20:17:00,Saturday,Saturday,18,20,10%
+36,C4890,R2608,203,20,Cash on Delivery,50 off Promo,125,22,0,2024-01-04 10:48:00,2024-01-04 11:21:00,Thursday,Thursday,10,11,50 off Promo
+37,C9838,R2603,176,30,Cash on Delivery,5% on App,106,37,0,2024-01-04 16:09:00,2024-01-04 16:59:00,Thursday,Thursday,16,16,5% on App
+38,C6393,R2263,329,30,Credit Card,10%,156,36,0,2024-01-15 06:05:00,2024-01-15 07:05:00,Monday,Monday,6,7,10%
+39,C9792,R2417,1381,30,Credit Card,10%,173,26,0,2024-02-05 17:18:00,2024-02-05 18:08:00,Monday,Monday,17,18,10%
+40,C9433,R2802,1387,50,Credit Card,5% on App,200,47,0,2024-01-16 08:24:00,2024-01-16 09:18:00,Tuesday,Tuesday,8,9,5% on App
+41,C8513,R2095,430,50,Digital Wallet,5% on App,188,45,150,2024-01-02 01:38:00,2024-01-02 02:22:00,Tuesday,Tuesday,1,2,5% on App
+42,C3612,R2087,1305,50,Digital Wallet,10%,165,10,0,2024-01-27 20:38:00,2024-01-27 21:42:00,Saturday,Saturday,20,21,10%
+43,C8041,R2077,992,0,Credit Card,10%,142,27,0,2024-01-21 21:36:00,2024-01-21 22:54:00,Sunday,Sunday,21,22,10%
+44,C7235,R2287,1891,20,Cash on Delivery,10%,91,18,0,2024-01-16 06:49:00,2024-01-16 08:01:00,Tuesday,Tuesday,6,8,10%
+45,C6486,R2119,1673,40,Credit Card,5% on App,77,22,100,2024-01-01 07:15:00,2024-01-01 08:25:00,Monday,Monday,7,8,5% on App
+46,C8099,R2813,787,0,Digital Wallet,10%,172,49,0,2024-01-04 22:56:00,2024-01-05 00:02:00,Thursday,Friday,22,0,10%
+47,C1775,R2490,126,20,Cash on Delivery,,73,24,150,2024-01-20 13:22:00,2024-01-20 14:48:00,Saturday,Saturday,13,14,No Discount
+48,C9226,R2911,1399,20,Digital Wallet,5% on App,185,13,0,2024-01-06 07:54:00,2024-01-06 09:05:00,Saturday,Saturday,7,9,5% on App
+49,C4152,R2451,1775,30,Cash on Delivery,,155,42,50,2024-01-27 00:02:00,2024-01-27 01:18:00,Saturday,Saturday,0,1,No Discount
+50,C2585,R2499,398,30,Digital Wallet,15% New User,167,33,0,2024-02-07 22:23:00,2024-02-07 23:53:00,Wednesday,Wednesday,22,23,15% New User
+51,C4943,R2164,1056,0,Cash on Delivery,5% on App,102,45,0,2024-01-30 09:41:00,2024-01-30 10:24:00,Tuesday,Tuesday,9,10,5% on App
+52,C8555,R2181,898,30,Cash on Delivery,15% New User,181,50,0,2024-01-01 09:38:00,2024-01-01 11:15:00,Monday,Monday,9,11,15% New User
+53,C4073,R2468,1214,20,Cash on Delivery,10%,149,19,0,2024-01-11 20:30:00,2024-01-11 21:52:00,Thursday,Thursday,20,21,10%
+54,C2021,R2909,579,30,Cash on Delivery,10%,54,45,50,2024-01-19 03:17:00,2024-01-19 05:10:00,Friday,Friday,3,5,10%
+55,C4843,R2734,672,50,Digital Wallet,50 off Promo,98,29,0,2024-01-23 04:22:00,2024-01-23 05:25:00,Tuesday,Tuesday,4,5,50 off Promo
+56,C8989,R2822,557,30,Digital Wallet,10%,147,50,0,2024-02-02 21:59:00,2024-02-02 23:44:00,Friday,Friday,21,23,10%
+57,C7873,R2943,1574,20,Cash on Delivery,15% New User,79,20,0,2024-01-05 02:08:00,2024-01-05 03:01:00,Friday,Friday,2,3,15% New User
+58,C6675,R2977,464,0,Cash on Delivery,10%,121,21,0,2024-01-14 23:17:00,2024-01-15 00:06:00,Sunday,Monday,23,0,10%
+59,C1161,R2006,958,40,Digital Wallet,5% on App,152,27,50,2024-01-18 14:58:00,2024-01-18 16:36:00,Thursday,Thursday,14,16,5% on App
+60,C5297,R2329,1798,30,Cash on Delivery,10%,112,39,100,2024-01-02 23:15:00,2024-01-03 00:14:00,Tuesday,Wednesday,23,0,10%
+61,C1995,R2774,450,20,Cash on Delivery,50 off Promo,75,46,0,2024-01-05 13:31:00,2024-01-05 15:28:00,Friday,Friday,13,15,50 off Promo
+62,C8629,R2672,1778,40,Cash on Delivery,10%,86,29,0,2024-01-03 12:21:00,2024-01-03 12:57:00,Wednesday,Wednesday,12,12,10%
+63,C2016,R2150,1523,40,Credit Card,15% New User,56,34,0,2024-01-17 01:16:00,2024-01-17 02:21:00,Wednesday,Wednesday,1,2,15% New User
+64,C8869,R2084,352,50,Cash on Delivery,15% New User,176,21,150,2024-01-14 23:34:00,2024-01-15 00:41:00,Sunday,Monday,23,0,15% New User
+65,C7439,R2146,880,40,Credit Card,10%,141,30,0,2024-02-03 01:19:00,2024-02-03 03:08:00,Saturday,Saturday,1,3,10%
+66,C8892,R2623,902,20,Cash on Delivery,15% New User,152,34,100,2024-02-06 02:39:00,2024-02-06 04:00:00,Tuesday,Tuesday,2,4,15% New User
+67,C7863,R2380,1111,20,Digital Wallet,15% New User,102,20,50,2024-01-20 19:52:00,2024-01-20 20:36:00,Saturday,Saturday,19,20,15% New User
+68,C8916,R2914,558,30,Credit Card,50 off Promo,181,18,0,2024-02-04 02:49:00,2024-02-04 04:04:00,Sunday,Sunday,2,4,50 off Promo
+69,C9529,R2547,1822,30,Credit Card,5% on App,157,34,0,2024-01-28 16:48:00,2024-01-28 17:40:00,Sunday,Sunday,16,17,5% on App
+70,C1878,R2284,1016,30,Cash on Delivery,50 off Promo,161,44,0,2024-02-05 04:31:00,2024-02-05 05:12:00,Monday,Monday,4,5,50 off Promo
+71,C5887,R2699,598,40,Cash on Delivery,,56,41,0,2024-01-16 00:17:00,2024-01-16 01:30:00,Tuesday,Tuesday,0,1,No Discount
+72,C5859,R2081,1049,40,Credit Card,50 off Promo,116,23,0,2024-01-21 03:03:00,2024-01-21 03:47:00,Sunday,Sunday,3,3,50 off Promo
+73,C7331,R2513,607,50,Digital Wallet,10%,157,10,50,2024-01-14 16:01:00,2024-01-14 17:19:00,Sunday,Sunday,16,17,10%
+74,C9571,R2896,1427,30,Digital Wallet,5% on App,160,26,0,2024-01-21 22:06:00,2024-01-21 22:56:00,Sunday,Sunday,22,22,5% on App
+75,C9684,R2814,600,0,Cash on Delivery,10%,197,34,0,2024-01-03 20:12:00,2024-01-03 20:56:00,Wednesday,Wednesday,20,20,10%
+76,C8208,R2708,902,50,Digital Wallet,,132,17,150,2024-02-01 19:26:00,2024-02-01 20:09:00,Thursday,Thursday,19,20,No Discount
+77,C6276,R2915,697,0,Digital Wallet,5% on App,173,14,0,2024-01-23 06:33:00,2024-01-23 07:44:00,Tuesday,Tuesday,6,7,5% on App
+78,C3062,R2522,265,40,Cash on Delivery,15% New User,188,14,0,2024-01-22 22:43:00,2024-01-23 00:32:00,Monday,Tuesday,22,0,15% New User
+79,C1064,R2745,1538,50,Digital Wallet,50 off Promo,153,50,0,2024-02-06 07:52:00,2024-02-06 08:36:00,Tuesday,Tuesday,7,8,50 off Promo
+80,C9006,R2385,561,50,Cash on Delivery,10%,116,44,150,2024-01-02 16:41:00,2024-01-02 18:13:00,Tuesday,Tuesday,16,18,10%
+81,C3568,R2706,1019,20,Credit Card,,56,28,150,2024-02-01 17:31:00,2024-02-01 19:08:00,Thursday,Thursday,17,19,No Discount
+82,C6463,R2470,213,40,Cash on Delivery,15% New User,200,32,0,2024-01-16 19:47:00,2024-01-16 20:43:00,Tuesday,Tuesday,19,20,15% New User
+83,C3027,R2118,1556,40,Credit Card,50 off Promo,159,18,0,2024-01-13 05:05:00,2024-01-13 07:01:00,Saturday,Saturday,5,7,50 off Promo
+84,C3695,R2395,1091,50,Credit Card,15% New User,83,39,0,2024-01-29 02:28:00,2024-01-29 03:50:00,Monday,Monday,2,3,15% New User
+85,C6258,R2531,1479,40,Digital Wallet,50 off Promo,155,25,0,2024-01-01 21:59:00,2024-01-01 23:20:00,Monday,Monday,21,23,50 off Promo
+86,C6618,R2260,1818,50,Digital Wallet,5% on App,196,42,0,2024-01-01 03:21:00,2024-01-01 04:53:00,Monday,Monday,3,4,5% on App
+87,C7736,R2804,306,20,Digital Wallet,15% New User,107,11,100,2024-02-06 20:39:00,2024-02-06 22:21:00,Tuesday,Tuesday,20,22,15% New User
+88,C1391,R2933,1891,50,Cash on Delivery,15% New User,58,23,0,2024-02-03 15:21:00,2024-02-03 16:43:00,Saturday,Saturday,15,16,15% New User
+89,C6892,R2255,1358,40,Digital Wallet,15% New User,97,10,0,2024-01-16 13:07:00,2024-01-16 14:33:00,Tuesday,Tuesday,13,14,15% New User
+90,C4561,R2733,1565,40,Credit Card,5% on App,164,35,0,2024-01-29 19:00:00,2024-01-29 20:21:00,Monday,Monday,19,20,5% on App
+91,C7184,R2904,1478,50,Digital Wallet,,90,34,0,2024-01-19 05:27:00,2024-01-19 06:39:00,Friday,Friday,5,6,No Discount
+92,C4099,R2225,614,50,Digital Wallet,50 off Promo,97,25,150,2024-02-03 21:08:00,2024-02-03 21:44:00,Saturday,Saturday,21,21,50 off Promo
+93,C7278,R2052,1331,50,Cash on Delivery,15% New User,74,24,50,2024-01-24 17:08:00,2024-01-24 18:19:00,Wednesday,Wednesday,17,18,15% New User
+94,C9392,R2939,808,30,Cash on Delivery,5% on App,165,35,0,2024-01-29 21:00:00,2024-01-29 21:33:00,Monday,Monday,21,21,5% on App
+95,C4104,R2866,1976,40,Credit Card,,127,25,50,2024-01-14 13:07:00,2024-01-14 14:45:00,Sunday,Sunday,13,14,No Discount
+96,C8215,R2499,1248,40,Cash on Delivery,50 off Promo,157,23,0,2024-01-10 05:17:00,2024-01-10 05:51:00,Wednesday,Wednesday,5,5,50 off Promo
+97,C3454,R2505,237,30,Digital Wallet,5% on App,74,38,0,2024-01-08 11:48:00,2024-01-08 13:32:00,Monday,Monday,11,13,5% on App
+98,C9996,R2853,438,50,Cash on Delivery,50 off Promo,196,33,0,2024-01-18 22:21:00,2024-01-19 00:10:00,Thursday,Friday,22,0,50 off Promo
+99,C3731,R2363,636,20,Credit Card,15% New User,88,24,0,2024-02-06 03:29:00,2024-02-06 04:39:00,Tuesday,Tuesday,3,4,15% New User
+100,C9154,R2279,167,50,Digital Wallet,,168,28,0,2024-01-20 10:18:00,2024-01-20 10:51:00,Saturday,Saturday,10,10,No Discount
+101,C6056,R2592,1696,50,Credit Card,5% on App,128,17,0,2024-01-10 06:15:00,2024-01-10 06:46:00,Wednesday,Wednesday,6,6,5% on App
+102,C9110,R2713,1664,30,Cash on Delivery,,129,43,0,2024-01-23 16:16:00,2024-01-23 17:52:00,Tuesday,Tuesday,16,17,No Discount
+103,C4840,R2157,482,40,Cash on Delivery,15% New User,76,11,0,2024-01-20 11:39:00,2024-01-20 12:29:00,Saturday,Saturday,11,12,15% New User
+104,C2028,R2631,118,50,Credit Card,,153,36,0,2024-01-22 01:30:00,2024-01-22 03:09:00,Monday,Monday,1,3,No Discount
+105,C8385,R2058,782,40,Digital Wallet,,123,19,0,2024-01-13 02:04:00,2024-01-13 03:16:00,Saturday,Saturday,2,3,No Discount
+106,C1502,R2726,1573,0,Cash on Delivery,10%,117,44,0,2024-01-25 19:57:00,2024-01-25 21:48:00,Thursday,Thursday,19,21,10%
+107,C7910,R2127,173,40,Cash on Delivery,,196,32,50,2024-01-12 04:01:00,2024-01-12 05:39:00,Friday,Friday,4,5,No Discount
+108,C7938,R2735,672,20,Digital Wallet,50 off Promo,77,17,0,2024-01-06 17:59:00,2024-01-06 18:37:00,Saturday,Saturday,17,18,50 off Promo
+109,C5488,R2720,1038,20,Cash on Delivery,5% on App,172,37,100,2024-01-14 20:00:00,2024-01-14 21:53:00,Sunday,Sunday,20,21,5% on App
+110,C1206,R2881,1788,50,Credit Card,10%,187,32,0,2024-01-14 14:05:00,2024-01-14 15:02:00,Sunday,Sunday,14,15,10%
+111,C6134,R2114,1399,40,Cash on Delivery,5% on App,132,13,150,2024-02-01 08:37:00,2024-02-01 09:32:00,Thursday,Thursday,8,9,5% on App
+112,C6977,R2208,1171,50,Cash on Delivery,5% on App,79,23,0,2024-01-06 04:37:00,2024-01-06 06:28:00,Saturday,Saturday,4,6,5% on App
+113,C8721,R2525,310,30,Digital Wallet,15% New User,71,38,0,2024-01-01 07:57:00,2024-01-01 09:49:00,Monday,Monday,7,9,15% New User
+114,C8035,R2520,954,20,Credit Card,15% New User,52,10,0,2024-02-02 19:05:00,2024-02-02 19:37:00,Friday,Friday,19,19,15% New User
+115,C2484,R2551,750,50,Digital Wallet,10%,150,13,0,2024-02-06 19:56:00,2024-02-06 21:38:00,Tuesday,Tuesday,19,21,10%
+116,C8858,R2961,1745,30,Cash on Delivery,15% New User,154,41,0,2024-01-18 10:47:00,2024-01-18 12:05:00,Thursday,Thursday,10,12,15% New User
+117,C1863,R2236,1093,50,Cash on Delivery,15% New User,51,42,0,2024-01-15 18:37:00,2024-01-15 19:23:00,Monday,Monday,18,19,15% New User
+118,C3790,R2280,794,40,Digital Wallet,15% New User,103,35,0,2024-01-06 15:33:00,2024-01-06 17:05:00,Saturday,Saturday,15,17,15% New User
+119,C8408,R2358,639,40,Digital Wallet,5% on App,55,26,50,2024-01-15 03:34:00,2024-01-15 04:58:00,Monday,Monday,3,4,5% on App
+120,C9755,R2200,1832,40,Digital Wallet,10%,156,48,100,2024-01-30 06:06:00,2024-01-30 06:58:00,Tuesday,Tuesday,6,6,10%
+121,C6116,R2757,1314,40,Credit Card,5% on App,172,32,50,2024-01-04 15:50:00,2024-01-04 16:53:00,Thursday,Thursday,15,16,5% on App
+122,C7019,R2277,1438,0,Cash on Delivery,50 off Promo,51,41,0,2024-02-05 05:55:00,2024-02-05 07:33:00,Monday,Monday,5,7,50 off Promo
+123,C2757,R2234,1000,30,Digital Wallet,5% on App,160,24,0,2024-02-06 09:28:00,2024-02-06 10:12:00,Tuesday,Tuesday,9,10,5% on App
+124,C8574,R2493,1686,30,Cash on Delivery,50 off Promo,51,22,0,2024-01-02 04:09:00,2024-01-02 05:25:00,Tuesday,Tuesday,4,5,50 off Promo
+125,C7374,R2003,1784,40,Credit Card,,142,11,150,2024-01-23 03:42:00,2024-01-23 04:14:00,Tuesday,Tuesday,3,4,No Discount
+126,C7892,R2665,879,0,Credit Card,,150,28,0,2024-02-03 22:03:00,2024-02-03 23:55:00,Saturday,Saturday,22,23,No Discount
+127,C2678,R2441,1685,40,Credit Card,50 off Promo,146,33,0,2024-02-03 03:46:00,2024-02-03 04:43:00,Saturday,Saturday,3,4,50 off Promo
+128,C4242,R2028,1881,0,Credit Card,50 off Promo,160,33,100,2024-01-16 09:30:00,2024-01-16 10:02:00,Tuesday,Tuesday,9,10,50 off Promo
+129,C5636,R2108,1236,40,Cash on Delivery,5% on App,55,20,0,2024-01-02 19:54:00,2024-01-02 20:27:00,Tuesday,Tuesday,19,20,5% on App
+130,C2059,R2609,269,20,Credit Card,50 off Promo,176,31,0,2024-01-08 08:14:00,2024-01-08 10:11:00,Monday,Monday,8,10,50 off Promo
+131,C7668,R2726,1591,20,Credit Card,10%,153,24,50,2024-01-31 18:11:00,2024-01-31 19:11:00,Wednesday,Wednesday,18,19,10%
+132,C4157,R2804,1801,50,Digital Wallet,,196,19,150,2024-01-06 08:33:00,2024-01-06 09:47:00,Saturday,Saturday,8,9,No Discount
+133,C6915,R2074,1137,40,Credit Card,,50,50,150,2024-01-20 09:37:00,2024-01-20 11:05:00,Saturday,Saturday,9,11,No Discount
+134,C3693,R2837,1838,30,Digital Wallet,50 off Promo,82,36,0,2024-01-23 22:52:00,2024-01-24 00:06:00,Tuesday,Wednesday,22,0,50 off Promo
+135,C4627,R2145,387,50,Credit Card,15% New User,89,18,100,2024-01-18 22:03:00,2024-01-18 23:47:00,Thursday,Thursday,22,23,15% New User
+136,C6450,R2127,288,20,Credit Card,15% New User,81,37,100,2024-02-06 05:25:00,2024-02-06 06:31:00,Tuesday,Tuesday,5,6,15% New User
+137,C2663,R2852,1013,40,Digital Wallet,50 off Promo,66,10,0,2024-01-31 09:45:00,2024-01-31 11:19:00,Wednesday,Wednesday,9,11,50 off Promo
+138,C6592,R2041,1278,50,Credit Card,10%,175,26,50,2024-01-12 07:41:00,2024-01-12 08:19:00,Friday,Friday,7,8,10%
+139,C8392,R2355,1690,40,Cash on Delivery,15% New User,57,40,0,2024-02-02 16:58:00,2024-02-02 17:44:00,Friday,Friday,16,17,15% New User
+140,C2306,R2040,793,20,Cash on Delivery,50 off Promo,106,19,100,2024-01-09 14:14:00,2024-01-09 15:48:00,Tuesday,Tuesday,14,15,50 off Promo
+141,C7776,R2933,1845,50,Credit Card,10%,91,46,0,2024-02-01 15:05:00,2024-02-01 15:37:00,Thursday,Thursday,15,15,10%
+142,C6864,R2033,987,20,Cash on Delivery,10%,147,38,0,2024-01-24 14:15:00,2024-01-24 15:10:00,Wednesday,Wednesday,14,15,10%
+143,C8526,R2016,570,0,Digital Wallet,5% on App,186,27,0,2024-01-08 21:36:00,2024-01-08 22:58:00,Monday,Monday,21,22,5% on App
+144,C9901,R2676,1198,20,Credit Card,10%,169,47,50,2024-02-01 17:05:00,2024-02-01 18:05:00,Thursday,Thursday,17,18,10%
+145,C6575,R2152,376,40,Credit Card,15% New User,136,48,0,2024-01-31 07:46:00,2024-01-31 08:41:00,Wednesday,Wednesday,7,8,15% New User
+146,C6530,R2997,1039,30,Digital Wallet,15% New User,103,15,0,2024-01-30 19:25:00,2024-01-30 20:17:00,Tuesday,Tuesday,19,20,15% New User
+147,C5413,R2377,1768,20,Digital Wallet,50 off Promo,133,49,0,2024-01-09 08:23:00,2024-01-09 09:22:00,Tuesday,Tuesday,8,9,50 off Promo
+148,C4748,R2587,1466,30,Digital Wallet,50 off Promo,74,21,150,2024-02-05 08:28:00,2024-02-05 09:07:00,Monday,Monday,8,9,50 off Promo
+149,C1663,R2598,1548,0,Credit Card,10%,116,23,0,2024-01-30 02:58:00,2024-01-30 04:39:00,Tuesday,Tuesday,2,4,10%
+150,C2998,R2628,670,50,Digital Wallet,,95,19,50,2024-01-07 00:22:00,2024-01-07 02:20:00,Sunday,Sunday,0,2,No Discount
+151,C8994,R2873,1634,50,Digital Wallet,5% on App,71,29,0,2024-01-27 23:08:00,2024-01-28 00:41:00,Saturday,Sunday,23,0,5% on App
+152,C2495,R2341,956,30,Cash on Delivery,,188,24,0,2024-01-30 21:15:00,2024-01-30 22:06:00,Tuesday,Tuesday,21,22,No Discount
+153,C4304,R2980,1100,50,Cash on Delivery,10%,57,40,0,2024-02-03 10:08:00,2024-02-03 10:52:00,Saturday,Saturday,10,10,10%
+154,C4763,R2026,1305,20,Credit Card,10%,88,16,0,2024-01-12 08:54:00,2024-01-12 10:19:00,Friday,Friday,8,10,10%
+155,C6232,R2824,557,30,Cash on Delivery,,98,50,0,2024-01-01 10:05:00,2024-01-01 11:48:00,Monday,Monday,10,11,No Discount
+156,C2853,R2286,1017,40,Cash on Delivery,5% on App,95,19,0,2024-01-29 03:43:00,2024-01-29 04:32:00,Monday,Monday,3,4,5% on App
+157,C7585,R2645,1974,20,Digital Wallet,,87,19,0,2024-01-02 19:28:00,2024-01-02 20:44:00,Tuesday,Tuesday,19,20,No Discount
+158,C2291,R2730,932,20,Digital Wallet,50 off Promo,185,48,0,2024-02-06 14:45:00,2024-02-06 16:41:00,Tuesday,Tuesday,14,16,50 off Promo
+159,C4581,R2167,1187,20,Cash on Delivery,15% New User,103,37,50,2024-01-23 10:32:00,2024-01-23 11:54:00,Tuesday,Tuesday,10,11,15% New User
+160,C8554,R2609,938,40,Cash on Delivery,50 off Promo,141,39,0,2024-02-03 10:01:00,2024-02-03 11:23:00,Saturday,Saturday,10,11,50 off Promo
+161,C8280,R2267,1383,0,Cash on Delivery,15% New User,89,46,0,2024-01-05 13:36:00,2024-01-05 14:06:00,Friday,Friday,13,14,15% New User
+162,C2636,R2748,292,50,Credit Card,10%,83,12,0,2024-01-28 00:45:00,2024-01-28 01:16:00,Sunday,Sunday,0,1,10%
+163,C4696,R2820,1778,30,Credit Card,5% on App,145,24,100,2024-02-01 16:09:00,2024-02-01 17:36:00,Thursday,Thursday,16,17,5% on App
+164,C1698,R2454,715,0,Credit Card,,128,30,150,2024-01-13 17:41:00,2024-01-13 18:29:00,Saturday,Saturday,17,18,No Discount
+165,C5737,R2905,505,30,Cash on Delivery,5% on App,176,46,100,2024-01-19 05:56:00,2024-01-19 07:27:00,Friday,Friday,5,7,5% on App
+166,C1854,R2684,1849,50,Cash on Delivery,,66,21,0,2024-01-17 04:51:00,2024-01-17 06:38:00,Wednesday,Wednesday,4,6,No Discount
+167,C9164,R2400,1877,40,Credit Card,50 off Promo,159,13,0,2024-01-13 10:58:00,2024-01-13 12:39:00,Saturday,Saturday,10,12,50 off Promo
+168,C6855,R2921,1042,20,Credit Card,50 off Promo,101,18,0,2024-01-23 16:59:00,2024-01-23 17:40:00,Tuesday,Tuesday,16,17,50 off Promo
+169,C8392,R2980,820,20,Cash on Delivery,,167,48,0,2024-02-03 01:13:00,2024-02-03 02:08:00,Saturday,Saturday,1,2,No Discount
+170,C7528,R2475,192,40,Digital Wallet,5% on App,58,37,0,2024-01-08 16:34:00,2024-01-08 17:30:00,Monday,Monday,16,17,5% on App
+171,C6249,R2701,529,0,Credit Card,,82,32,150,2024-01-27 16:32:00,2024-01-27 17:30:00,Saturday,Saturday,16,17,No Discount
+172,C6172,R2633,753,0,Cash on Delivery,10%,162,49,0,2024-02-02 05:17:00,2024-02-02 06:01:00,Friday,Friday,5,6,10%
+173,C2707,R2557,1557,30,Cash on Delivery,50 off Promo,198,31,0,2024-01-23 10:35:00,2024-01-23 11:50:00,Tuesday,Tuesday,10,11,50 off Promo
+174,C6791,R2575,1527,40,Digital Wallet,10%,134,33,0,2024-01-12 21:40:00,2024-01-12 22:10:00,Friday,Friday,21,22,10%
+175,C6535,R2129,533,0,Cash on Delivery,50 off Promo,59,35,50,2024-01-11 04:28:00,2024-01-11 05:57:00,Thursday,Thursday,4,5,50 off Promo
+176,C5931,R2821,1235,40,Cash on Delivery,50 off Promo,55,39,150,2024-01-05 03:38:00,2024-01-05 05:04:00,Friday,Friday,3,5,50 off Promo
+177,C4510,R2362,474,50,Credit Card,15% New User,164,42,0,2024-02-05 03:38:00,2024-02-05 04:10:00,Monday,Monday,3,4,15% New User
+178,C1202,R2704,1182,20,Credit Card,10%,170,25,0,2024-01-01 22:12:00,2024-01-01 22:59:00,Monday,Monday,22,22,10%
+179,C5218,R2818,1166,20,Digital Wallet,10%,190,31,0,2024-01-08 08:08:00,2024-01-08 09:29:00,Monday,Monday,8,9,10%
+180,C9958,R2692,306,20,Digital Wallet,15% New User,114,27,0,2024-01-24 15:27:00,2024-01-24 16:56:00,Wednesday,Wednesday,15,16,15% New User
+181,C5389,R2291,879,40,Cash on Delivery,5% on App,69,16,0,2024-01-13 03:09:00,2024-01-13 04:12:00,Saturday,Saturday,3,4,5% on App
+182,C3327,R2370,1419,40,Credit Card,10%,106,35,0,2024-01-18 09:13:00,2024-01-18 11:11:00,Thursday,Thursday,9,11,10%
+183,C9004,R2793,1241,30,Digital Wallet,,95,17,0,2024-01-28 14:27:00,2024-01-28 15:56:00,Sunday,Sunday,14,15,No Discount
+184,C3931,R2028,631,20,Digital Wallet,15% New User,185,15,50,2024-01-30 23:54:00,2024-01-31 00:49:00,Tuesday,Wednesday,23,0,15% New User
+185,C8777,R2148,1345,30,Digital Wallet,10%,59,39,0,2024-01-23 03:16:00,2024-01-23 04:57:00,Tuesday,Tuesday,3,4,10%
+186,C1197,R2778,265,20,Cash on Delivery,5% on App,162,48,0,2024-01-19 11:11:00,2024-01-19 11:59:00,Friday,Friday,11,11,5% on App
+187,C8125,R2295,742,30,Credit Card,10%,188,32,0,2024-01-03 14:30:00,2024-01-03 15:21:00,Wednesday,Wednesday,14,15,10%
+188,C2930,R2010,1279,30,Digital Wallet,50 off Promo,61,41,100,2024-01-16 05:53:00,2024-01-16 06:55:00,Tuesday,Tuesday,5,6,50 off Promo
+189,C7287,R2511,1307,50,Credit Card,,187,31,0,2024-01-27 04:50:00,2024-01-27 05:57:00,Saturday,Saturday,4,5,No Discount
+190,C9800,R2675,189,30,Digital Wallet,15% New User,60,18,0,2024-01-25 05:48:00,2024-01-25 06:52:00,Thursday,Thursday,5,6,15% New User
+191,C5282,R2112,1217,40,Digital Wallet,50 off Promo,167,40,0,2024-02-03 02:51:00,2024-02-03 04:27:00,Saturday,Saturday,2,4,50 off Promo
+192,C3511,R2186,112,30,Credit Card,5% on App,88,16,0,2024-01-09 15:36:00,2024-01-09 17:28:00,Tuesday,Tuesday,15,17,5% on App
+193,C1659,R2806,1072,20,Credit Card,50 off Promo,102,18,0,2024-01-13 11:58:00,2024-01-13 12:37:00,Saturday,Saturday,11,12,50 off Promo
+194,C3811,R2743,1957,30,Credit Card,50 off Promo,105,22,0,2024-01-15 09:39:00,2024-01-15 10:23:00,Monday,Monday,9,10,50 off Promo
+195,C8098,R2226,904,0,Cash on Delivery,5% on App,153,12,0,2024-01-22 06:03:00,2024-01-22 06:43:00,Monday,Monday,6,6,5% on App
+196,C7546,R2309,1044,20,Digital Wallet,50 off Promo,178,44,0,2024-01-26 20:16:00,2024-01-26 22:15:00,Friday,Friday,20,22,50 off Promo
+197,C2986,R2097,841,0,Cash on Delivery,15% New User,105,42,50,2024-01-16 13:11:00,2024-01-16 14:04:00,Tuesday,Tuesday,13,14,15% New User
+198,C9338,R2054,1957,20,Credit Card,10%,167,30,0,2024-01-28 13:22:00,2024-01-28 15:08:00,Sunday,Sunday,13,15,10%
+199,C3911,R2622,1927,40,Digital Wallet,50 off Promo,181,40,0,2024-01-20 03:39:00,2024-01-20 04:12:00,Saturday,Saturday,3,4,50 off Promo
+200,C2734,R2663,1561,40,Cash on Delivery,15% New User,79,43,150,2024-01-13 18:08:00,2024-01-13 18:50:00,Saturday,Saturday,18,18,15% New User
+201,C2843,R2757,1661,40,Digital Wallet,10%,61,41,0,2024-01-05 16:26:00,2024-01-05 18:08:00,Friday,Friday,16,18,10%
+202,C9680,R2405,1710,0,Cash on Delivery,10%,84,44,0,2024-01-20 20:31:00,2024-01-20 21:57:00,Saturday,Saturday,20,21,10%
+203,C3976,R2068,975,50,Credit Card,50 off Promo,126,24,150,2024-01-07 14:38:00,2024-01-07 15:44:00,Sunday,Sunday,14,15,50 off Promo
+204,C2959,R2311,1934,20,Cash on Delivery,15% New User,151,41,0,2024-01-25 00:30:00,2024-01-25 01:47:00,Thursday,Thursday,0,1,15% New User
+205,C6759,R2288,1273,40,Digital Wallet,50 off Promo,136,15,0,2024-01-12 16:09:00,2024-01-12 17:49:00,Friday,Friday,16,17,50 off Promo
+206,C7694,R2761,759,20,Digital Wallet,5% on App,101,30,0,2024-01-30 03:15:00,2024-01-30 03:45:00,Tuesday,Tuesday,3,3,5% on App
+207,C3385,R2547,1131,0,Digital Wallet,10%,129,42,0,2024-01-25 03:30:00,2024-01-25 04:59:00,Thursday,Thursday,3,4,10%
+208,C5736,R2750,1152,50,Digital Wallet,50 off Promo,184,41,0,2024-01-18 09:08:00,2024-01-18 09:49:00,Thursday,Thursday,9,9,50 off Promo
+209,C2802,R2147,395,0,Credit Card,10%,71,28,50,2024-02-02 04:04:00,2024-02-02 04:54:00,Friday,Friday,4,4,10%
+210,C9155,R2466,1085,20,Cash on Delivery,15% New User,124,42,100,2024-01-23 03:35:00,2024-01-23 04:15:00,Tuesday,Tuesday,3,4,15% New User
+211,C9120,R2738,1025,50,Credit Card,,107,37,0,2024-02-06 02:32:00,2024-02-06 03:45:00,Tuesday,Tuesday,2,3,No Discount
+212,C7616,R2243,1844,50,Credit Card,50 off Promo,142,40,150,2024-02-02 12:47:00,2024-02-02 14:14:00,Friday,Friday,12,14,50 off Promo
+213,C6534,R2490,739,0,Credit Card,50 off Promo,152,30,0,2024-01-07 08:28:00,2024-01-07 09:41:00,Sunday,Sunday,8,9,50 off Promo
+214,C5061,R2848,439,40,Digital Wallet,10%,189,43,0,2024-01-24 03:20:00,2024-01-24 05:07:00,Wednesday,Wednesday,3,5,10%
+215,C1262,R2957,727,20,Digital Wallet,15% New User,56,24,0,2024-01-10 20:15:00,2024-01-10 21:18:00,Wednesday,Wednesday,20,21,15% New User
+216,C7287,R2506,538,30,Digital Wallet,5% on App,177,23,0,2024-02-06 03:16:00,2024-02-06 04:10:00,Tuesday,Tuesday,3,4,5% on App
+217,C9815,R2364,1267,30,Cash on Delivery,15% New User,104,28,0,2024-01-12 10:17:00,2024-01-12 10:50:00,Friday,Friday,10,10,15% New User
+218,C3049,R2481,1041,0,Digital Wallet,50 off Promo,155,24,0,2024-01-01 16:26:00,2024-01-01 17:59:00,Monday,Monday,16,17,50 off Promo
+219,C6423,R2200,929,20,Cash on Delivery,5% on App,111,15,0,2024-01-29 07:34:00,2024-01-29 09:33:00,Monday,Monday,7,9,5% on App
+220,C5548,R2153,1870,20,Digital Wallet,15% New User,139,18,0,2024-01-28 18:16:00,2024-01-28 19:01:00,Sunday,Sunday,18,19,15% New User
+221,C4108,R2449,618,0,Digital Wallet,,147,46,0,2024-01-16 19:40:00,2024-01-16 20:19:00,Tuesday,Tuesday,19,20,No Discount
+222,C8158,R2500,1075,20,Credit Card,10%,126,29,0,2024-01-20 16:41:00,2024-01-20 18:16:00,Saturday,Saturday,16,18,10%
+223,C8400,R2072,1168,40,Credit Card,15% New User,168,43,0,2024-01-14 18:09:00,2024-01-14 19:13:00,Sunday,Sunday,18,19,15% New User
+224,C4170,R2712,1054,0,Credit Card,15% New User,85,47,0,2024-01-10 12:42:00,2024-01-10 14:34:00,Wednesday,Wednesday,12,14,15% New User
+225,C3255,R2295,1362,40,Cash on Delivery,,138,35,0,2024-02-04 15:38:00,2024-02-04 16:13:00,Sunday,Sunday,15,16,No Discount
+226,C2154,R2016,1051,20,Cash on Delivery,50 off Promo,194,27,150,2024-02-03 04:29:00,2024-02-03 05:17:00,Saturday,Saturday,4,5,50 off Promo
+227,C5499,R2640,1043,0,Digital Wallet,10%,179,37,0,2024-01-03 23:48:00,2024-01-04 01:16:00,Wednesday,Thursday,23,1,10%
+228,C7295,R2216,254,20,Cash on Delivery,15% New User,190,18,0,2024-01-12 01:19:00,2024-01-12 02:41:00,Friday,Friday,1,2,15% New User
+229,C7197,R2060,1304,0,Digital Wallet,5% on App,142,41,0,2024-01-16 16:58:00,2024-01-16 17:35:00,Tuesday,Tuesday,16,17,5% on App
+230,C2648,R2938,1338,20,Cash on Delivery,15% New User,163,15,0,2024-01-26 20:37:00,2024-01-26 22:24:00,Friday,Friday,20,22,15% New User
+231,C6539,R2615,187,40,Cash on Delivery,10%,77,23,0,2024-01-09 03:57:00,2024-01-09 04:36:00,Tuesday,Tuesday,3,4,10%
+232,C5199,R2041,1379,40,Cash on Delivery,15% New User,192,37,0,2024-02-01 00:12:00,2024-02-01 01:48:00,Thursday,Thursday,0,1,15% New User
+233,C9445,R2024,1634,20,Credit Card,,82,33,0,2024-02-04 11:02:00,2024-02-04 12:09:00,Sunday,Sunday,11,12,No Discount
+234,C3557,R2038,1196,0,Cash on Delivery,15% New User,69,22,0,2024-01-09 15:46:00,2024-01-09 16:44:00,Tuesday,Tuesday,15,16,15% New User
+235,C6592,R2802,1030,30,Credit Card,15% New User,189,21,0,2024-02-02 06:41:00,2024-02-02 07:25:00,Friday,Friday,6,7,15% New User
+236,C1098,R2130,278,40,Credit Card,5% on App,150,28,0,2024-01-15 11:47:00,2024-01-15 13:43:00,Monday,Monday,11,13,5% on App
+237,C3200,R2497,311,40,Cash on Delivery,,72,30,0,2024-01-02 16:08:00,2024-01-02 17:00:00,Tuesday,Tuesday,16,17,No Discount
+238,C3961,R2228,1928,30,Digital Wallet,,161,36,0,2024-01-05 21:50:00,2024-01-05 23:41:00,Friday,Friday,21,23,No Discount
+239,C5973,R2107,1357,20,Digital Wallet,15% New User,63,28,0,2024-02-07 19:42:00,2024-02-07 20:57:00,Wednesday,Wednesday,19,20,15% New User
+240,C5433,R2171,564,0,Digital Wallet,5% on App,140,33,0,2024-02-07 17:42:00,2024-02-07 19:34:00,Wednesday,Wednesday,17,19,5% on App
+241,C3869,R2434,1874,20,Cash on Delivery,15% New User,126,35,0,2024-01-17 10:08:00,2024-01-17 11:05:00,Wednesday,Wednesday,10,11,15% New User
+242,C1956,R2477,1346,50,Digital Wallet,15% New User,134,37,100,2024-01-25 09:57:00,2024-01-25 10:52:00,Thursday,Thursday,9,10,15% New User
+243,C9352,R2101,730,40,Credit Card,10%,158,27,0,2024-01-09 02:32:00,2024-01-09 03:11:00,Tuesday,Tuesday,2,3,10%
+244,C6699,R2865,924,50,Digital Wallet,10%,80,45,50,2024-01-09 02:09:00,2024-01-09 03:25:00,Tuesday,Tuesday,2,3,10%
+245,C7944,R2523,1387,40,Cash on Delivery,5% on App,171,38,50,2024-01-24 00:34:00,2024-01-24 01:07:00,Wednesday,Wednesday,0,1,5% on App
+246,C5493,R2274,1330,40,Digital Wallet,50 off Promo,156,26,0,2024-01-01 23:59:00,2024-01-02 01:23:00,Monday,Tuesday,23,1,50 off Promo
+247,C5911,R2612,706,50,Credit Card,10%,103,13,0,2024-01-25 02:58:00,2024-01-25 04:33:00,Thursday,Thursday,2,4,10%
+248,C4987,R2043,984,50,Cash on Delivery,50 off Promo,182,38,0,2024-01-09 17:42:00,2024-01-09 19:18:00,Tuesday,Tuesday,17,19,50 off Promo
+249,C7015,R2954,1857,20,Digital Wallet,,190,13,0,2024-01-23 13:23:00,2024-01-23 13:59:00,Tuesday,Tuesday,13,13,No Discount
+250,C2218,R2816,465,50,Cash on Delivery,10%,92,19,100,2024-01-03 00:40:00,2024-01-03 02:04:00,Wednesday,Wednesday,0,2,10%
+251,C5496,R2956,375,20,Cash on Delivery,10%,138,34,0,2024-02-07 05:58:00,2024-02-07 07:47:00,Wednesday,Wednesday,5,7,10%
+252,C5735,R2016,479,20,Cash on Delivery,5% on App,164,40,0,2024-01-01 17:40:00,2024-01-01 18:40:00,Monday,Monday,17,18,5% on App
+253,C5555,R2329,1866,20,Digital Wallet,50 off Promo,148,12,0,2024-01-04 01:49:00,2024-01-04 03:32:00,Thursday,Thursday,1,3,50 off Promo
+254,C9050,R2568,1432,40,Cash on Delivery,10%,96,11,0,2024-01-18 17:13:00,2024-01-18 18:01:00,Thursday,Thursday,17,18,10%
+255,C4446,R2822,1754,40,Digital Wallet,10%,120,34,0,2024-01-22 10:55:00,2024-01-22 11:52:00,Monday,Monday,10,11,10%
+256,C2045,R2496,1391,50,Credit Card,5% on App,116,15,0,2024-01-22 19:09:00,2024-01-22 20:59:00,Monday,Monday,19,20,5% on App
+257,C7893,R2814,1044,40,Digital Wallet,5% on App,111,35,100,2024-02-02 17:11:00,2024-02-02 18:08:00,Friday,Friday,17,18,5% on App
+258,C2693,R2011,1908,50,Credit Card,50 off Promo,158,17,0,2024-02-04 23:11:00,2024-02-04 23:59:00,Sunday,Sunday,23,23,50 off Promo
+259,C4436,R2317,1187,40,Digital Wallet,,86,44,0,2024-02-07 19:04:00,2024-02-07 21:00:00,Wednesday,Wednesday,19,21,No Discount
+260,C9754,R2591,909,0,Cash on Delivery,,168,36,0,2024-01-02 19:14:00,2024-01-02 20:03:00,Tuesday,Tuesday,19,20,No Discount
+261,C6895,R2215,1473,0,Digital Wallet,15% New User,135,34,0,2024-02-04 18:17:00,2024-02-04 18:59:00,Sunday,Sunday,18,18,15% New User
+262,C4354,R2338,1024,50,Cash on Delivery,10%,175,27,0,2024-01-08 07:37:00,2024-01-08 09:23:00,Monday,Monday,7,9,10%
+263,C1225,R2775,593,40,Credit Card,50 off Promo,185,10,0,2024-01-07 05:00:00,2024-01-07 06:12:00,Sunday,Sunday,5,6,50 off Promo
+264,C5893,R2990,1646,40,Digital Wallet,10%,101,48,150,2024-01-17 07:53:00,2024-01-17 08:33:00,Wednesday,Wednesday,7,8,10%
+265,C8022,R2660,1221,20,Cash on Delivery,50 off Promo,140,12,100,2024-01-16 20:31:00,2024-01-16 21:48:00,Tuesday,Tuesday,20,21,50 off Promo
+266,C6600,R2080,1194,30,Credit Card,50 off Promo,82,13,0,2024-01-21 23:17:00,2024-01-22 00:01:00,Sunday,Monday,23,0,50 off Promo
+267,C8996,R2726,463,50,Credit Card,50 off Promo,130,50,0,2024-01-24 00:09:00,2024-01-24 00:55:00,Wednesday,Wednesday,0,0,50 off Promo
+268,C8683,R2484,669,30,Digital Wallet,10%,91,46,0,2024-01-23 01:27:00,2024-01-23 02:50:00,Tuesday,Tuesday,1,2,10%
+269,C5642,R2373,1925,30,Credit Card,5% on App,161,24,0,2024-01-07 13:29:00,2024-01-07 14:48:00,Sunday,Sunday,13,14,5% on App
+270,C8679,R2975,862,50,Cash on Delivery,10%,175,17,0,2024-01-17 20:17:00,2024-01-17 21:14:00,Wednesday,Wednesday,20,21,10%
+271,C9208,R2709,375,40,Credit Card,50 off Promo,185,47,0,2024-01-12 12:09:00,2024-01-12 14:01:00,Friday,Friday,12,14,50 off Promo
+272,C8339,R2199,149,50,Credit Card,15% New User,200,28,0,2024-02-01 08:40:00,2024-02-01 09:13:00,Thursday,Thursday,8,9,15% New User
+273,C3205,R2536,1481,30,Cash on Delivery,,155,35,0,2024-01-03 10:50:00,2024-01-03 11:41:00,Wednesday,Wednesday,10,11,No Discount
+274,C2069,R2465,827,40,Credit Card,50 off Promo,174,48,100,2024-01-15 09:51:00,2024-01-15 11:46:00,Monday,Monday,9,11,50 off Promo
+275,C4444,R2088,1005,0,Credit Card,15% New User,162,19,0,2024-01-27 04:24:00,2024-01-27 05:32:00,Saturday,Saturday,4,5,15% New User
+276,C2060,R2267,1027,50,Credit Card,5% on App,113,47,100,2024-01-21 17:58:00,2024-01-21 19:01:00,Sunday,Sunday,17,19,5% on App
+277,C3327,R2654,663,50,Credit Card,50 off Promo,172,23,0,2024-01-27 21:05:00,2024-01-27 22:18:00,Saturday,Saturday,21,22,50 off Promo
+278,C4420,R2570,882,40,Cash on Delivery,15% New User,163,50,150,2024-01-07 12:01:00,2024-01-07 13:12:00,Sunday,Sunday,12,13,15% New User
+279,C1301,R2921,584,0,Credit Card,50 off Promo,69,28,0,2024-01-07 00:59:00,2024-01-07 02:08:00,Sunday,Sunday,0,2,50 off Promo
+280,C1606,R2488,1207,0,Cash on Delivery,10%,65,39,0,2024-02-01 06:56:00,2024-02-01 07:37:00,Thursday,Thursday,6,7,10%
+281,C4170,R2876,1928,40,Credit Card,15% New User,194,14,0,2024-01-21 22:13:00,2024-01-21 22:44:00,Sunday,Sunday,22,22,15% New User
+282,C1699,R2537,1761,20,Credit Card,10%,68,40,150,2024-01-01 20:56:00,2024-01-01 21:53:00,Monday,Monday,20,21,10%
+283,C6088,R2046,1931,50,Credit Card,10%,169,16,100,2024-01-31 16:54:00,2024-01-31 18:37:00,Wednesday,Wednesday,16,18,10%
+284,C1190,R2287,683,50,Credit Card,15% New User,185,28,150,2024-01-31 06:37:00,2024-01-31 08:32:00,Wednesday,Wednesday,6,8,15% New User
+285,C1980,R2777,1419,30,Cash on Delivery,,87,40,0,2024-01-21 13:16:00,2024-01-21 15:06:00,Sunday,Sunday,13,15,No Discount
+286,C3975,R2015,335,40,Cash on Delivery,15% New User,142,48,0,2024-01-27 23:09:00,2024-01-28 01:08:00,Saturday,Sunday,23,1,15% New User
+287,C7102,R2710,155,30,Cash on Delivery,,154,33,50,2024-02-07 21:19:00,2024-02-07 22:55:00,Wednesday,Wednesday,21,22,No Discount
+288,C2184,R2400,459,30,Digital Wallet,50 off Promo,149,43,50,2024-01-13 12:44:00,2024-01-13 14:24:00,Saturday,Saturday,12,14,50 off Promo
+289,C4327,R2918,209,0,Credit Card,50 off Promo,139,32,0,2024-01-16 01:07:00,2024-01-16 02:48:00,Tuesday,Tuesday,1,2,50 off Promo
+290,C4394,R2793,291,50,Credit Card,15% New User,93,49,50,2024-01-20 11:38:00,2024-01-20 13:31:00,Saturday,Saturday,11,13,15% New User
+291,C9319,R2980,1003,30,Cash on Delivery,50 off Promo,125,15,100,2024-01-26 11:44:00,2024-01-26 13:29:00,Friday,Friday,11,13,50 off Promo
+292,C2816,R2085,1216,0,Digital Wallet,5% on App,194,47,0,2024-01-18 08:00:00,2024-01-18 09:50:00,Thursday,Thursday,8,9,5% on App
+293,C6854,R2249,961,40,Credit Card,10%,128,50,0,2024-01-30 05:53:00,2024-01-30 06:32:00,Tuesday,Tuesday,5,6,10%
+294,C7709,R2390,667,30,Cash on Delivery,10%,122,45,0,2024-01-27 03:48:00,2024-01-27 05:43:00,Saturday,Saturday,3,5,10%
+295,C1569,R2781,1183,50,Credit Card,,189,36,150,2024-01-28 17:22:00,2024-01-28 18:48:00,Sunday,Sunday,17,18,No Discount
+296,C6442,R2334,749,30,Credit Card,50 off Promo,145,20,150,2024-01-03 17:06:00,2024-01-03 19:01:00,Wednesday,Wednesday,17,19,50 off Promo
+297,C2895,R2628,138,40,Cash on Delivery,,138,14,0,2024-01-15 09:52:00,2024-01-15 10:58:00,Monday,Monday,9,10,No Discount
+298,C3733,R2518,1663,30,Cash on Delivery,10%,152,26,0,2024-01-30 14:49:00,2024-01-30 16:35:00,Tuesday,Tuesday,14,16,10%
+299,C4863,R2136,1172,50,Credit Card,10%,195,16,100,2024-01-06 19:12:00,2024-01-06 20:45:00,Saturday,Saturday,19,20,10%
+300,C8455,R2882,1543,0,Credit Card,50 off Promo,55,36,0,2024-02-03 08:29:00,2024-02-03 10:17:00,Saturday,Saturday,8,10,50 off Promo
+301,C5014,R2687,736,50,Cash on Delivery,5% on App,171,24,0,2024-02-01 19:36:00,2024-02-01 21:31:00,Thursday,Thursday,19,21,5% on App
+302,C2686,R2839,1136,0,Credit Card,5% on App,165,22,0,2024-01-03 06:14:00,2024-01-03 07:23:00,Wednesday,Wednesday,6,7,5% on App
+303,C4009,R2497,135,20,Credit Card,50 off Promo,111,20,50,2024-01-28 02:56:00,2024-01-28 04:25:00,Sunday,Sunday,2,4,50 off Promo
+304,C8806,R2826,200,50,Cash on Delivery,50 off Promo,193,35,0,2024-01-06 21:58:00,2024-01-06 23:15:00,Saturday,Saturday,21,23,50 off Promo
+305,C1154,R2726,1917,50,Credit Card,,185,31,0,2024-01-25 11:26:00,2024-01-25 12:14:00,Thursday,Thursday,11,12,No Discount
+306,C2409,R2476,1209,40,Credit Card,50 off Promo,138,37,150,2024-01-12 17:13:00,2024-01-12 18:54:00,Friday,Friday,17,18,50 off Promo
+307,C1784,R2593,1639,30,Digital Wallet,5% on App,145,33,0,2024-01-11 00:49:00,2024-01-11 01:51:00,Thursday,Thursday,0,1,5% on App
+308,C9096,R2222,1346,0,Cash on Delivery,50 off Promo,175,38,0,2024-01-01 13:38:00,2024-01-01 14:51:00,Monday,Monday,13,14,50 off Promo
+309,C8560,R2989,1461,0,Digital Wallet,,139,18,50,2024-02-05 08:57:00,2024-02-05 10:03:00,Monday,Monday,8,10,No Discount
+310,C8343,R2371,265,40,Digital Wallet,,135,13,0,2024-01-10 23:54:00,2024-01-11 01:52:00,Wednesday,Thursday,23,1,No Discount
+311,C8206,R2934,482,40,Digital Wallet,,187,27,0,2024-02-07 04:48:00,2024-02-07 05:53:00,Wednesday,Wednesday,4,5,No Discount
+312,C6596,R2994,1979,30,Credit Card,,170,25,0,2024-01-19 09:21:00,2024-01-19 11:11:00,Friday,Friday,9,11,No Discount
+313,C6801,R2401,1499,30,Credit Card,15% New User,125,42,0,2024-02-07 11:31:00,2024-02-07 13:28:00,Wednesday,Wednesday,11,13,15% New User
+314,C3806,R2442,1594,50,Digital Wallet,50 off Promo,141,38,0,2024-02-02 05:57:00,2024-02-02 06:47:00,Friday,Friday,5,6,50 off Promo
+315,C1537,R2489,889,20,Digital Wallet,10%,119,48,0,2024-01-07 12:51:00,2024-01-07 13:22:00,Sunday,Sunday,12,13,10%
+316,C6986,R2614,1765,30,Digital Wallet,50 off Promo,197,19,50,2024-01-14 04:43:00,2024-01-14 05:43:00,Sunday,Sunday,4,5,50 off Promo
+317,C2841,R2272,130,40,Credit Card,15% New User,182,18,0,2024-01-25 22:39:00,2024-01-25 23:38:00,Thursday,Thursday,22,23,15% New User
+318,C9716,R2525,1498,30,Digital Wallet,,72,40,0,2024-01-03 09:09:00,2024-01-03 10:54:00,Wednesday,Wednesday,9,10,No Discount
+319,C7971,R2158,110,0,Digital Wallet,15% New User,186,37,50,2024-01-14 23:14:00,2024-01-15 00:27:00,Sunday,Monday,23,0,15% New User
+320,C6625,R2151,1425,20,Cash on Delivery,5% on App,107,12,0,2024-01-09 22:12:00,2024-01-09 22:53:00,Tuesday,Tuesday,22,22,5% on App
+321,C3950,R2994,195,50,Cash on Delivery,5% on App,95,23,100,2024-02-06 02:33:00,2024-02-06 03:53:00,Tuesday,Tuesday,2,3,5% on App
+322,C8992,R2619,1313,0,Credit Card,50 off Promo,71,34,150,2024-02-03 11:03:00,2024-02-03 12:21:00,Saturday,Saturday,11,12,50 off Promo
+323,C5780,R2187,552,0,Cash on Delivery,50 off Promo,57,24,0,2024-01-09 14:11:00,2024-01-09 15:04:00,Tuesday,Tuesday,14,15,50 off Promo
+324,C3368,R2812,291,20,Cash on Delivery,10%,172,11,100,2024-01-24 21:39:00,2024-01-24 22:32:00,Wednesday,Wednesday,21,22,10%
+325,C7655,R2097,585,50,Cash on Delivery,10%,69,33,0,2024-01-07 06:33:00,2024-01-07 08:02:00,Sunday,Sunday,6,8,10%
+326,C9173,R2130,1389,40,Credit Card,5% on App,127,23,50,2024-02-04 16:13:00,2024-02-04 16:53:00,Sunday,Sunday,16,16,5% on App
+327,C5495,R2804,1547,50,Cash on Delivery,,88,16,0,2024-01-19 06:07:00,2024-01-19 06:49:00,Friday,Friday,6,6,No Discount
+328,C7002,R2170,1251,30,Credit Card,15% New User,86,45,0,2024-01-03 23:34:00,2024-01-04 01:15:00,Wednesday,Thursday,23,1,15% New User
+329,C7614,R2935,337,0,Digital Wallet,10%,124,33,0,2024-01-02 02:06:00,2024-01-02 03:49:00,Tuesday,Tuesday,2,3,10%
+330,C6919,R2985,1478,30,Cash on Delivery,10%,167,36,0,2024-01-17 14:39:00,2024-01-17 16:20:00,Wednesday,Wednesday,14,16,10%
+331,C1853,R2182,1235,40,Credit Card,,153,46,0,2024-01-24 03:03:00,2024-01-24 04:36:00,Wednesday,Wednesday,3,4,No Discount
+332,C5146,R2982,1951,30,Cash on Delivery,,80,47,0,2024-01-24 18:46:00,2024-01-24 19:35:00,Wednesday,Wednesday,18,19,No Discount
+333,C4769,R2363,1569,50,Digital Wallet,50 off Promo,172,39,150,2024-01-03 15:38:00,2024-01-03 17:19:00,Wednesday,Wednesday,15,17,50 off Promo
+334,C1574,R2038,1466,30,Credit Card,15% New User,103,36,0,2024-01-10 17:56:00,2024-01-10 19:38:00,Wednesday,Wednesday,17,19,15% New User
+335,C2148,R2526,1268,40,Credit Card,,83,48,50,2024-01-03 05:45:00,2024-01-03 07:25:00,Wednesday,Wednesday,5,7,No Discount
+336,C7293,R2887,1188,40,Credit Card,10%,171,24,0,2024-01-14 09:47:00,2024-01-14 11:34:00,Sunday,Sunday,9,11,10%
+337,C7457,R2496,1370,40,Digital Wallet,10%,162,35,0,2024-01-24 02:17:00,2024-01-24 03:14:00,Wednesday,Wednesday,2,3,10%
+338,C8509,R2515,834,50,Digital Wallet,5% on App,111,10,0,2024-01-18 06:48:00,2024-01-18 07:19:00,Thursday,Thursday,6,7,5% on App
+339,C5777,R2348,1090,40,Digital Wallet,,72,13,0,2024-01-30 12:41:00,2024-01-30 13:53:00,Tuesday,Tuesday,12,13,No Discount
+340,C4854,R2981,1613,0,Credit Card,50 off Promo,95,38,0,2024-02-03 19:40:00,2024-02-03 20:17:00,Saturday,Saturday,19,20,50 off Promo
+341,C3491,R2920,924,40,Digital Wallet,15% New User,105,10,0,2024-02-05 02:18:00,2024-02-05 03:00:00,Monday,Monday,2,3,15% New User
+342,C4124,R2396,1562,30,Cash on Delivery,50 off Promo,184,31,0,2024-01-16 13:30:00,2024-01-16 15:24:00,Tuesday,Tuesday,13,15,50 off Promo
+343,C6691,R2721,205,30,Digital Wallet,10%,167,20,0,2024-01-14 00:28:00,2024-01-14 01:32:00,Sunday,Sunday,0,1,10%
+344,C4051,R2160,280,30,Credit Card,50 off Promo,180,19,0,2024-01-13 11:53:00,2024-01-13 12:45:00,Saturday,Saturday,11,12,50 off Promo
+345,C1004,R2015,283,50,Cash on Delivery,10%,162,26,0,2024-02-05 22:45:00,2024-02-06 00:00:00,Monday,Tuesday,22,0,10%
+346,C6222,R2492,325,30,Digital Wallet,10%,93,45,100,2024-01-09 01:01:00,2024-01-09 01:45:00,Tuesday,Tuesday,1,1,10%
+347,C6315,R2425,876,50,Cash on Delivery,10%,177,35,0,2024-01-16 19:09:00,2024-01-16 19:40:00,Tuesday,Tuesday,19,19,10%
+348,C5869,R2107,889,50,Cash on Delivery,10%,157,30,100,2024-01-13 06:41:00,2024-01-13 08:11:00,Saturday,Saturday,6,8,10%
+349,C1876,R2893,1212,40,Credit Card,10%,66,22,100,2024-02-04 15:55:00,2024-02-04 17:40:00,Sunday,Sunday,15,17,10%
+350,C8027,R2449,787,0,Cash on Delivery,5% on App,108,18,0,2024-02-07 17:01:00,2024-02-07 18:34:00,Wednesday,Wednesday,17,18,5% on App
+351,C5142,R2310,629,40,Cash on Delivery,50 off Promo,187,20,0,2024-02-01 14:59:00,2024-02-01 16:20:00,Thursday,Thursday,14,16,50 off Promo
+352,C7966,R2738,1494,40,Credit Card,5% on App,148,20,0,2024-01-03 08:47:00,2024-01-03 09:52:00,Wednesday,Wednesday,8,9,5% on App
+353,C8079,R2169,1071,50,Credit Card,5% on App,133,15,100,2024-01-23 22:04:00,2024-01-23 23:40:00,Tuesday,Tuesday,22,23,5% on App
+354,C8987,R2545,1035,50,Credit Card,,195,10,50,2024-01-07 10:20:00,2024-01-07 11:58:00,Sunday,Sunday,10,11,No Discount
+355,C7799,R2413,1522,30,Cash on Delivery,,94,15,0,2024-02-07 00:59:00,2024-02-07 02:35:00,Wednesday,Wednesday,0,2,No Discount
+356,C5465,R2250,205,30,Cash on Delivery,,157,22,0,2024-01-05 16:02:00,2024-01-05 17:18:00,Friday,Friday,16,17,No Discount
+357,C1635,R2758,1394,40,Cash on Delivery,15% New User,111,31,0,2024-01-26 01:26:00,2024-01-26 03:18:00,Friday,Friday,1,3,15% New User
+358,C2693,R2780,930,20,Credit Card,,108,40,0,2024-01-05 08:52:00,2024-01-05 09:23:00,Friday,Friday,8,9,No Discount
+359,C5752,R2140,1626,20,Digital Wallet,50 off Promo,187,31,0,2024-01-02 08:21:00,2024-01-02 09:34:00,Tuesday,Tuesday,8,9,50 off Promo
+360,C9311,R2273,778,30,Cash on Delivery,5% on App,60,46,0,2024-01-26 02:36:00,2024-01-26 04:09:00,Friday,Friday,2,4,5% on App
+361,C1830,R2415,1648,20,Digital Wallet,50 off Promo,151,36,0,2024-01-12 10:05:00,2024-01-12 11:55:00,Friday,Friday,10,11,50 off Promo
+362,C6177,R2607,948,30,Credit Card,,119,23,0,2024-02-02 16:11:00,2024-02-02 17:58:00,Friday,Friday,16,17,No Discount
+363,C9932,R2738,1155,50,Cash on Delivery,15% New User,172,14,150,2024-01-28 10:20:00,2024-01-28 11:17:00,Sunday,Sunday,10,11,15% New User
+364,C9308,R2890,492,40,Digital Wallet,15% New User,83,45,0,2024-01-30 14:39:00,2024-01-30 16:02:00,Tuesday,Tuesday,14,16,15% New User
+365,C6949,R2038,139,0,Cash on Delivery,5% on App,150,41,0,2024-01-16 14:11:00,2024-01-16 15:54:00,Tuesday,Tuesday,14,15,5% on App
+366,C3838,R2813,759,40,Cash on Delivery,50 off Promo,194,43,100,2024-01-26 20:07:00,2024-01-26 21:43:00,Friday,Friday,20,21,50 off Promo
+367,C2150,R2028,1341,30,Cash on Delivery,10%,153,16,50,2024-02-01 19:05:00,2024-02-01 20:10:00,Thursday,Thursday,19,20,10%
+368,C8560,R2957,1854,30,Digital Wallet,50 off Promo,89,19,50,2024-01-10 18:09:00,2024-01-10 19:41:00,Wednesday,Wednesday,18,19,50 off Promo
+369,C2931,R2476,1080,40,Credit Card,,68,26,0,2024-01-02 21:59:00,2024-01-02 22:53:00,Tuesday,Tuesday,21,22,No Discount
+370,C2664,R2317,1205,30,Cash on Delivery,10%,116,39,0,2024-01-25 04:42:00,2024-01-25 06:37:00,Thursday,Thursday,4,6,10%
+371,C2081,R2244,944,20,Credit Card,15% New User,131,30,0,2024-01-23 02:13:00,2024-01-23 03:30:00,Tuesday,Tuesday,2,3,15% New User
+372,C1512,R2747,1843,20,Credit Card,5% on App,113,22,0,2024-02-06 08:23:00,2024-02-06 09:31:00,Tuesday,Tuesday,8,9,5% on App
+373,C8805,R2696,300,30,Digital Wallet,5% on App,132,10,0,2024-01-18 22:01:00,2024-01-18 23:17:00,Thursday,Thursday,22,23,5% on App
+374,C6237,R2271,546,30,Digital Wallet,15% New User,96,10,100,2024-01-06 17:12:00,2024-01-06 18:02:00,Saturday,Saturday,17,18,15% New User
+375,C1559,R2439,1967,20,Credit Card,,55,42,150,2024-01-27 22:12:00,2024-01-27 23:11:00,Saturday,Saturday,22,23,No Discount
+376,C4672,R2747,1551,30,Cash on Delivery,15% New User,65,47,0,2024-01-29 21:13:00,2024-01-29 22:13:00,Monday,Monday,21,22,15% New User
+377,C8404,R2238,1161,30,Digital Wallet,,195,34,0,2024-01-28 04:16:00,2024-01-28 05:11:00,Sunday,Sunday,4,5,No Discount
+378,C4343,R2376,1334,40,Cash on Delivery,10%,88,35,0,2024-02-05 02:44:00,2024-02-05 03:35:00,Monday,Monday,2,3,10%
+379,C5070,R2265,543,0,Cash on Delivery,15% New User,162,22,100,2024-02-01 19:03:00,2024-02-01 19:53:00,Thursday,Thursday,19,19,15% New User
+380,C1580,R2925,1450,20,Cash on Delivery,,189,37,0,2024-01-09 06:18:00,2024-01-09 06:48:00,Tuesday,Tuesday,6,6,No Discount
+381,C8004,R2920,860,40,Credit Card,10%,187,42,100,2024-01-19 01:25:00,2024-01-19 02:31:00,Friday,Friday,1,2,10%
+382,C9130,R2358,326,0,Cash on Delivery,15% New User,120,46,0,2024-01-10 00:50:00,2024-01-10 02:36:00,Wednesday,Wednesday,0,2,15% New User
+383,C4147,R2339,147,30,Credit Card,5% on App,159,50,0,2024-01-04 03:30:00,2024-01-04 05:24:00,Thursday,Thursday,3,5,5% on App
+384,C5249,R2388,1141,30,Credit Card,15% New User,104,39,0,2024-01-18 23:43:00,2024-01-19 00:58:00,Thursday,Friday,23,0,15% New User
+385,C2679,R2576,1011,40,Cash on Delivery,50 off Promo,178,17,0,2024-01-28 22:10:00,2024-01-28 22:48:00,Sunday,Sunday,22,22,50 off Promo
+386,C4506,R2989,1562,30,Cash on Delivery,15% New User,98,10,0,2024-01-29 10:27:00,2024-01-29 11:13:00,Monday,Monday,10,11,15% New User
+387,C8253,R2688,1930,50,Cash on Delivery,50 off Promo,70,21,0,2024-01-20 17:29:00,2024-01-20 18:45:00,Saturday,Saturday,17,18,50 off Promo
+388,C3744,R2002,1831,40,Cash on Delivery,10%,86,14,150,2024-01-30 12:42:00,2024-01-30 14:36:00,Tuesday,Tuesday,12,14,10%
+389,C6188,R2428,286,0,Credit Card,15% New User,165,33,0,2024-02-06 04:49:00,2024-02-06 06:17:00,Tuesday,Tuesday,4,6,15% New User
+390,C3141,R2141,444,40,Cash on Delivery,10%,73,15,50,2024-01-25 18:26:00,2024-01-25 19:49:00,Thursday,Thursday,18,19,10%
+391,C7617,R2375,323,20,Cash on Delivery,10%,104,34,0,2024-01-10 15:57:00,2024-01-10 17:52:00,Wednesday,Wednesday,15,17,10%
+392,C3479,R2669,929,40,Credit Card,,74,10,50,2024-01-28 10:17:00,2024-01-28 10:58:00,Sunday,Sunday,10,10,No Discount
+393,C7484,R2323,587,30,Digital Wallet,10%,184,34,50,2024-02-06 16:55:00,2024-02-06 18:28:00,Tuesday,Tuesday,16,18,10%
+394,C8421,R2145,976,30,Digital Wallet,10%,176,10,0,2024-01-28 15:24:00,2024-01-28 15:59:00,Sunday,Sunday,15,15,10%
+395,C5452,R2957,948,50,Credit Card,15% New User,142,41,0,2024-02-03 09:03:00,2024-02-03 10:25:00,Saturday,Saturday,9,10,15% New User
+396,C6881,R2292,1352,50,Digital Wallet,15% New User,143,12,0,2024-01-15 19:43:00,2024-01-15 20:28:00,Monday,Monday,19,20,15% New User
+397,C7665,R2664,1513,50,Credit Card,5% on App,120,28,0,2024-01-09 17:31:00,2024-01-09 19:30:00,Tuesday,Tuesday,17,19,5% on App
+398,C3849,R2431,1078,0,Cash on Delivery,,171,38,0,2024-01-26 17:15:00,2024-01-26 17:49:00,Friday,Friday,17,17,No Discount
+399,C8390,R2704,1712,50,Cash on Delivery,10%,73,11,0,2024-01-16 02:38:00,2024-01-16 04:20:00,Tuesday,Tuesday,2,4,10%
+400,C7905,R2948,1116,0,Digital Wallet,,60,18,50,2024-01-13 22:19:00,2024-01-13 23:34:00,Saturday,Saturday,22,23,No Discount
+401,C3489,R2974,287,50,Cash on Delivery,50 off Promo,122,26,0,2024-01-04 13:43:00,2024-01-04 14:26:00,Thursday,Thursday,13,14,50 off Promo
+402,C5611,R2584,1981,0,Digital Wallet,10%,61,45,0,2024-01-27 06:01:00,2024-01-27 07:14:00,Saturday,Saturday,6,7,10%
+403,C3839,R2398,369,40,Digital Wallet,,84,26,0,2024-01-14 18:40:00,2024-01-14 20:12:00,Sunday,Sunday,18,20,No Discount
+404,C9527,R2816,1730,40,Cash on Delivery,5% on App,190,21,0,2024-01-21 21:05:00,2024-01-21 22:26:00,Sunday,Sunday,21,22,5% on App
+405,C6878,R2888,409,30,Cash on Delivery,5% on App,72,29,0,2024-02-04 07:37:00,2024-02-04 08:32:00,Sunday,Sunday,7,8,5% on App
+406,C7303,R2343,1255,0,Digital Wallet,10%,132,12,0,2024-01-14 06:38:00,2024-01-14 08:00:00,Sunday,Sunday,6,8,10%
+407,C1851,R2963,1674,20,Cash on Delivery,50 off Promo,137,13,150,2024-02-04 05:16:00,2024-02-04 06:14:00,Sunday,Sunday,5,6,50 off Promo
+408,C2687,R2139,1195,30,Credit Card,5% on App,129,26,0,2024-01-27 10:29:00,2024-01-27 11:17:00,Saturday,Saturday,10,11,5% on App
+409,C7833,R2186,1916,40,Cash on Delivery,5% on App,146,46,0,2024-01-04 14:12:00,2024-01-04 15:28:00,Thursday,Thursday,14,15,5% on App
+410,C3427,R2804,944,0,Cash on Delivery,50 off Promo,189,24,0,2024-01-25 14:40:00,2024-01-25 15:17:00,Thursday,Thursday,14,15,50 off Promo
+411,C5000,R2060,1795,50,Credit Card,,83,42,50,2024-01-15 17:08:00,2024-01-15 18:00:00,Monday,Monday,17,18,No Discount
+412,C6052,R2996,1310,20,Cash on Delivery,5% on App,124,25,0,2024-01-13 02:05:00,2024-01-13 03:09:00,Saturday,Saturday,2,3,5% on App
+413,C3738,R2938,585,40,Cash on Delivery,15% New User,177,20,150,2024-01-03 05:49:00,2024-01-03 07:11:00,Wednesday,Wednesday,5,7,15% New User
+414,C6732,R2379,1314,30,Digital Wallet,5% on App,190,29,0,2024-01-25 11:45:00,2024-01-25 13:12:00,Thursday,Thursday,11,13,5% on App
+415,C6387,R2709,1545,0,Cash on Delivery,,80,47,0,2024-01-12 18:03:00,2024-01-12 18:37:00,Friday,Friday,18,18,No Discount
+416,C9002,R2806,219,20,Cash on Delivery,,179,33,0,2024-02-02 19:25:00,2024-02-02 20:10:00,Friday,Friday,19,20,No Discount
+417,C6536,R2439,319,0,Credit Card,10%,152,25,0,2024-01-23 09:04:00,2024-01-23 09:50:00,Tuesday,Tuesday,9,9,10%
+418,C4913,R2318,152,50,Digital Wallet,15% New User,64,39,100,2024-01-08 17:45:00,2024-01-08 18:46:00,Monday,Monday,17,18,15% New User
+419,C2066,R2301,1857,30,Digital Wallet,,106,43,0,2024-01-27 18:49:00,2024-01-27 20:10:00,Saturday,Saturday,18,20,No Discount
+420,C8723,R2343,1574,0,Digital Wallet,50 off Promo,124,10,0,2024-01-11 12:07:00,2024-01-11 12:56:00,Thursday,Thursday,12,12,50 off Promo
+421,C5380,R2010,1535,40,Cash on Delivery,15% New User,83,33,150,2024-01-13 18:54:00,2024-01-13 20:29:00,Saturday,Saturday,18,20,15% New User
+422,C5107,R2061,1766,30,Digital Wallet,15% New User,152,33,0,2024-01-20 06:25:00,2024-01-20 08:18:00,Saturday,Saturday,6,8,15% New User
+423,C6726,R2844,1360,40,Credit Card,50 off Promo,124,18,0,2024-01-22 07:05:00,2024-01-22 08:56:00,Monday,Monday,7,8,50 off Promo
+424,C4373,R2225,857,0,Digital Wallet,5% on App,78,31,100,2024-02-07 19:08:00,2024-02-07 19:38:00,Wednesday,Wednesday,19,19,5% on App
+425,C9945,R2152,837,30,Credit Card,50 off Promo,65,21,0,2024-01-05 08:57:00,2024-01-05 10:24:00,Friday,Friday,8,10,50 off Promo
+426,C3082,R2710,819,40,Digital Wallet,50 off Promo,126,26,0,2024-01-01 02:58:00,2024-01-01 04:50:00,Monday,Monday,2,4,50 off Promo
+427,C9967,R2563,505,50,Digital Wallet,5% on App,86,34,50,2024-01-07 04:20:00,2024-01-07 05:33:00,Sunday,Sunday,4,5,5% on App
+428,C7748,R2771,707,50,Credit Card,5% on App,130,37,0,2024-02-06 15:08:00,2024-02-06 15:43:00,Tuesday,Tuesday,15,15,5% on App
+429,C1417,R2570,1120,0,Digital Wallet,5% on App,198,24,100,2024-01-31 06:36:00,2024-01-31 07:55:00,Wednesday,Wednesday,6,7,5% on App
+430,C9306,R2583,521,30,Digital Wallet,5% on App,173,39,0,2024-01-02 08:53:00,2024-01-02 10:34:00,Tuesday,Tuesday,8,10,5% on App
+431,C9808,R2659,811,20,Digital Wallet,5% on App,68,36,100,2024-01-23 22:37:00,2024-01-24 00:34:00,Tuesday,Wednesday,22,0,5% on App
+432,C4974,R2860,346,30,Cash on Delivery,50 off Promo,151,31,100,2024-01-20 14:02:00,2024-01-20 14:51:00,Saturday,Saturday,14,14,50 off Promo
+433,C4267,R2574,171,50,Credit Card,10%,185,19,50,2024-01-21 17:48:00,2024-01-21 18:31:00,Sunday,Sunday,17,18,10%
+434,C1825,R2309,1953,40,Digital Wallet,10%,126,40,0,2024-02-07 20:23:00,2024-02-07 20:57:00,Wednesday,Wednesday,20,20,10%
+435,C8668,R2884,284,20,Credit Card,,90,36,150,2024-01-03 11:50:00,2024-01-03 13:00:00,Wednesday,Wednesday,11,13,No Discount
+436,C6745,R2242,105,0,Credit Card,10%,110,21,0,2024-02-06 05:21:00,2024-02-06 06:30:00,Tuesday,Tuesday,5,6,10%
+437,C1412,R2492,1329,20,Credit Card,10%,75,40,50,2024-01-31 18:03:00,2024-01-31 19:06:00,Wednesday,Wednesday,18,19,10%
+438,C8543,R2365,1667,0,Digital Wallet,50 off Promo,120,41,0,2024-01-22 14:14:00,2024-01-22 16:03:00,Monday,Monday,14,16,50 off Promo
+439,C8587,R2329,1734,20,Digital Wallet,5% on App,152,41,0,2024-01-05 12:55:00,2024-01-05 14:09:00,Friday,Friday,12,14,5% on App
+440,C1728,R2106,1005,0,Credit Card,5% on App,119,50,50,2024-01-05 12:19:00,2024-01-05 13:59:00,Friday,Friday,12,13,5% on App
+441,C8164,R2225,486,0,Cash on Delivery,50 off Promo,156,44,0,2024-01-25 17:06:00,2024-01-25 18:55:00,Thursday,Thursday,17,18,50 off Promo
+442,C9867,R2824,1891,20,Credit Card,10%,156,30,0,2024-01-21 05:10:00,2024-01-21 06:50:00,Sunday,Sunday,5,6,10%
+443,C6988,R2217,798,20,Cash on Delivery,50 off Promo,152,19,0,2024-01-01 05:01:00,2024-01-01 05:57:00,Monday,Monday,5,5,50 off Promo
+444,C3504,R2936,1199,0,Credit Card,,68,25,0,2024-01-01 10:00:00,2024-01-01 11:47:00,Monday,Monday,10,11,No Discount
+445,C3967,R2752,1300,50,Credit Card,5% on App,117,16,0,2024-01-15 09:43:00,2024-01-15 11:30:00,Monday,Monday,9,11,5% on App
+446,C3786,R2505,926,20,Credit Card,15% New User,119,13,100,2024-01-03 16:56:00,2024-01-03 18:09:00,Wednesday,Wednesday,16,18,15% New User
+447,C2122,R2258,1922,30,Digital Wallet,,162,36,0,2024-02-01 09:16:00,2024-02-01 10:18:00,Thursday,Thursday,9,10,No Discount
+448,C5079,R2887,448,40,Cash on Delivery,,106,34,0,2024-01-23 04:52:00,2024-01-23 05:54:00,Tuesday,Tuesday,4,5,No Discount
+449,C2571,R2773,1378,0,Cash on Delivery,50 off Promo,110,40,0,2024-01-08 02:46:00,2024-01-08 03:59:00,Monday,Monday,2,3,50 off Promo
+450,C6073,R2516,1960,0,Credit Card,10%,141,20,0,2024-01-19 07:47:00,2024-01-19 08:36:00,Friday,Friday,7,8,10%
+451,C6104,R2772,1825,40,Digital Wallet,5% on App,79,29,0,2024-01-09 09:45:00,2024-01-09 10:50:00,Tuesday,Tuesday,9,10,5% on App
+452,C3143,R2053,407,50,Digital Wallet,15% New User,176,45,100,2024-01-21 18:24:00,2024-01-21 19:00:00,Sunday,Sunday,18,19,15% New User
+453,C7806,R2046,1468,40,Cash on Delivery,,164,26,150,2024-01-25 23:44:00,2024-01-26 00:45:00,Thursday,Friday,23,0,No Discount
+454,C8357,R2726,1250,20,Digital Wallet,15% New User,55,20,0,2024-01-09 18:29:00,2024-01-09 20:05:00,Tuesday,Tuesday,18,20,15% New User
+455,C4440,R2688,386,40,Cash on Delivery,10%,67,39,0,2024-02-04 12:27:00,2024-02-04 13:35:00,Sunday,Sunday,12,13,10%
+456,C4766,R2520,865,0,Cash on Delivery,10%,59,44,0,2024-01-08 17:28:00,2024-01-08 18:21:00,Monday,Monday,17,18,10%
+457,C6644,R2098,824,40,Cash on Delivery,15% New User,141,50,100,2024-02-03 07:28:00,2024-02-03 09:23:00,Saturday,Saturday,7,9,15% New User
+458,C3914,R2019,861,30,Digital Wallet,5% on App,188,47,0,2024-01-04 07:48:00,2024-01-04 09:27:00,Thursday,Thursday,7,9,5% on App
+459,C5968,R2889,1719,20,Cash on Delivery,10%,126,31,0,2024-01-02 00:17:00,2024-01-02 02:14:00,Tuesday,Tuesday,0,2,10%
+460,C6917,R2752,1610,40,Cash on Delivery,15% New User,150,36,150,2024-02-06 19:25:00,2024-02-06 21:21:00,Tuesday,Tuesday,19,21,15% New User
+461,C9787,R2572,482,0,Credit Card,,133,46,100,2024-01-24 15:30:00,2024-01-24 16:53:00,Wednesday,Wednesday,15,16,No Discount
+462,C1728,R2890,1529,20,Cash on Delivery,15% New User,101,44,100,2024-01-03 05:15:00,2024-01-03 06:22:00,Wednesday,Wednesday,5,6,15% New User
+463,C2365,R2489,487,0,Cash on Delivery,15% New User,80,13,50,2024-01-13 15:46:00,2024-01-13 17:29:00,Saturday,Saturday,15,17,15% New User
+464,C5492,R2418,624,50,Credit Card,50 off Promo,194,25,0,2024-02-05 17:43:00,2024-02-05 19:32:00,Monday,Monday,17,19,50 off Promo
+465,C1698,R2689,1680,30,Credit Card,10%,159,25,150,2024-01-13 23:47:00,2024-01-14 01:31:00,Saturday,Sunday,23,1,10%
+466,C8186,R2849,738,50,Digital Wallet,5% on App,142,30,0,2024-02-02 11:06:00,2024-02-02 12:07:00,Friday,Friday,11,12,5% on App
+467,C1395,R2061,1037,30,Cash on Delivery,5% on App,102,35,0,2024-01-04 09:38:00,2024-01-04 10:52:00,Thursday,Thursday,9,10,5% on App
+468,C8400,R2144,1749,40,Digital Wallet,50 off Promo,194,45,100,2024-01-19 16:08:00,2024-01-19 17:38:00,Friday,Friday,16,17,50 off Promo
+469,C9082,R2215,375,20,Digital Wallet,5% on App,135,28,0,2024-01-14 00:59:00,2024-01-14 02:38:00,Sunday,Sunday,0,2,5% on App
+470,C5171,R2002,599,40,Credit Card,15% New User,51,26,50,2024-02-01 15:17:00,2024-02-01 17:14:00,Thursday,Thursday,15,17,15% New User
+471,C5360,R2159,816,30,Digital Wallet,50 off Promo,135,35,100,2024-01-22 12:27:00,2024-01-22 13:49:00,Monday,Monday,12,13,50 off Promo
+472,C3502,R2738,436,30,Cash on Delivery,,182,31,0,2024-02-03 10:51:00,2024-02-03 12:11:00,Saturday,Saturday,10,12,No Discount
+473,C1717,R2997,1031,30,Credit Card,10%,53,37,0,2024-01-24 09:43:00,2024-01-24 11:28:00,Wednesday,Wednesday,9,11,10%
+474,C3782,R2780,580,0,Cash on Delivery,10%,55,10,100,2024-01-31 13:54:00,2024-01-31 15:19:00,Wednesday,Wednesday,13,15,10%
+475,C5946,R2119,1010,20,Cash on Delivery,10%,198,45,0,2024-01-20 17:09:00,2024-01-20 18:05:00,Saturday,Saturday,17,18,10%
+476,C6486,R2892,1396,40,Credit Card,15% New User,167,46,0,2024-01-15 11:55:00,2024-01-15 13:02:00,Monday,Monday,11,13,15% New User
+477,C9335,R2088,1181,40,Cash on Delivery,,138,11,100,2024-01-02 04:56:00,2024-01-02 06:27:00,Tuesday,Tuesday,4,6,No Discount
+478,C5980,R2328,1451,50,Credit Card,50 off Promo,63,26,0,2024-01-18 06:04:00,2024-01-18 06:51:00,Thursday,Thursday,6,6,50 off Promo
+479,C8266,R2579,1854,30,Cash on Delivery,50 off Promo,105,49,150,2024-01-06 15:28:00,2024-01-06 17:01:00,Saturday,Saturday,15,17,50 off Promo
+480,C5491,R2909,208,30,Credit Card,10%,130,47,100,2024-01-11 16:26:00,2024-01-11 18:12:00,Thursday,Thursday,16,18,10%
+481,C8192,R2356,1402,30,Digital Wallet,,198,30,0,2024-02-04 05:41:00,2024-02-04 06:40:00,Sunday,Sunday,5,6,No Discount
+482,C6588,R2609,1809,40,Cash on Delivery,,95,18,0,2024-02-04 02:51:00,2024-02-04 04:09:00,Sunday,Sunday,2,4,No Discount
+483,C8651,R2266,427,50,Credit Card,,193,22,0,2024-01-13 11:36:00,2024-01-13 12:46:00,Saturday,Saturday,11,12,No Discount
+484,C4636,R2616,1899,0,Cash on Delivery,5% on App,65,20,0,2024-02-06 11:27:00,2024-02-06 12:09:00,Tuesday,Tuesday,11,12,5% on App
+485,C2167,R2951,414,20,Cash on Delivery,5% on App,169,25,0,2024-01-27 03:42:00,2024-01-27 04:45:00,Saturday,Saturday,3,4,5% on App
+486,C2062,R2322,1597,0,Cash on Delivery,10%,133,25,0,2024-01-09 00:30:00,2024-01-09 01:24:00,Tuesday,Tuesday,0,1,10%
+487,C3156,R2634,1234,40,Credit Card,,57,11,50,2024-01-12 11:24:00,2024-01-12 12:59:00,Friday,Friday,11,12,No Discount
+488,C8860,R2987,798,30,Digital Wallet,,137,17,0,2024-01-02 16:29:00,2024-01-02 17:16:00,Tuesday,Tuesday,16,17,No Discount
+489,C6161,R2540,880,20,Digital Wallet,50 off Promo,180,22,0,2024-01-08 09:19:00,2024-01-08 09:53:00,Monday,Monday,9,9,50 off Promo
+490,C6305,R2648,1352,40,Digital Wallet,50 off Promo,68,26,50,2024-01-31 11:16:00,2024-01-31 12:04:00,Wednesday,Wednesday,11,12,50 off Promo
+491,C7541,R2194,1620,40,Credit Card,10%,146,48,0,2024-02-02 06:23:00,2024-02-02 07:34:00,Friday,Friday,6,7,10%
+492,C5729,R2920,255,40,Digital Wallet,,115,33,0,2024-01-12 05:03:00,2024-01-12 05:50:00,Friday,Friday,5,5,No Discount
+493,C8330,R2737,1596,20,Credit Card,10%,128,12,0,2024-01-01 06:30:00,2024-01-01 07:31:00,Monday,Monday,6,7,10%
+494,C6334,R2331,1824,20,Cash on Delivery,50 off Promo,135,39,0,2024-01-15 11:29:00,2024-01-15 12:19:00,Monday,Monday,11,12,50 off Promo
+495,C9924,R2169,1395,50,Cash on Delivery,50 off Promo,173,22,150,2024-01-18 05:53:00,2024-01-18 06:32:00,Thursday,Thursday,5,6,50 off Promo
+496,C5330,R2520,986,50,Digital Wallet,5% on App,199,28,0,2024-02-03 05:08:00,2024-02-03 06:14:00,Saturday,Saturday,5,6,5% on App
+497,C9010,R2462,1125,0,Credit Card,10%,95,16,50,2024-02-04 13:07:00,2024-02-04 14:25:00,Sunday,Sunday,13,14,10%
+498,C7801,R2039,857,20,Cash on Delivery,10%,162,18,0,2024-01-21 22:36:00,2024-01-22 00:31:00,Sunday,Monday,22,0,10%
+499,C5846,R2536,821,20,Credit Card,,140,28,50,2024-01-13 08:05:00,2024-01-13 08:47:00,Saturday,Saturday,8,8,No Discount
+500,C7731,R2260,1634,20,Credit Card,,190,49,150,2024-01-20 22:00:00,2024-01-20 23:24:00,Saturday,Saturday,22,23,No Discount
+501,C8241,R2394,1012,50,Cash on Delivery,5% on App,82,31,100,2024-01-07 10:28:00,2024-01-07 11:14:00,Sunday,Sunday,10,11,5% on App
+502,C1953,R2954,1409,40,Credit Card,15% New User,182,27,50,2024-01-12 03:49:00,2024-01-12 04:27:00,Friday,Friday,3,4,15% New User
+503,C3539,R2225,970,30,Cash on Delivery,15% New User,126,32,0,2024-02-04 20:48:00,2024-02-04 22:45:00,Sunday,Sunday,20,22,15% New User
+504,C8056,R2983,112,50,Cash on Delivery,15% New User,170,11,0,2024-01-18 17:14:00,2024-01-18 18:27:00,Thursday,Thursday,17,18,15% New User
+505,C2542,R2123,707,20,Cash on Delivery,10%,177,20,0,2024-01-01 02:12:00,2024-01-01 03:59:00,Monday,Monday,2,3,10%
+506,C6293,R2974,597,50,Credit Card,10%,127,40,50,2024-01-27 21:08:00,2024-01-27 22:23:00,Saturday,Saturday,21,22,10%
+507,C2191,R2037,1856,0,Cash on Delivery,50 off Promo,116,42,0,2024-01-15 13:11:00,2024-01-15 13:48:00,Monday,Monday,13,13,50 off Promo
+508,C7313,R2327,337,20,Credit Card,10%,164,23,0,2024-01-15 01:01:00,2024-01-15 02:07:00,Monday,Monday,1,2,10%
+509,C7938,R2250,1217,0,Cash on Delivery,10%,112,25,0,2024-01-07 09:27:00,2024-01-07 10:15:00,Sunday,Sunday,9,10,10%
+510,C3681,R2900,1461,20,Cash on Delivery,10%,162,20,0,2024-01-03 21:52:00,2024-01-03 23:24:00,Wednesday,Wednesday,21,23,10%
+511,C2540,R2175,880,50,Digital Wallet,5% on App,143,42,0,2024-01-21 07:48:00,2024-01-21 09:03:00,Sunday,Sunday,7,9,5% on App
+512,C7172,R2601,1294,40,Digital Wallet,10%,97,16,0,2024-01-10 17:45:00,2024-01-10 19:25:00,Wednesday,Wednesday,17,19,10%
+513,C6541,R2913,705,30,Digital Wallet,,61,40,0,2024-01-11 00:10:00,2024-01-11 01:05:00,Thursday,Thursday,0,1,No Discount
+514,C2365,R2453,760,0,Credit Card,,194,23,150,2024-01-17 12:42:00,2024-01-17 13:57:00,Wednesday,Wednesday,12,13,No Discount
+515,C9691,R2036,1747,50,Credit Card,50 off Promo,89,37,0,2024-01-11 19:56:00,2024-01-11 21:11:00,Thursday,Thursday,19,21,50 off Promo
+516,C9702,R2315,1690,40,Cash on Delivery,5% on App,134,25,50,2024-01-06 10:51:00,2024-01-06 12:35:00,Saturday,Saturday,10,12,5% on App
+517,C8494,R2687,948,50,Cash on Delivery,,106,28,0,2024-01-23 05:41:00,2024-01-23 06:24:00,Tuesday,Tuesday,5,6,No Discount
+518,C5312,R2972,1035,0,Cash on Delivery,5% on App,136,26,150,2024-01-01 16:49:00,2024-01-01 18:43:00,Monday,Monday,16,18,5% on App
+519,C2324,R2795,1590,30,Cash on Delivery,5% on App,133,35,100,2024-01-27 20:44:00,2024-01-27 22:16:00,Saturday,Saturday,20,22,5% on App
+520,C4141,R2964,727,50,Credit Card,50 off Promo,170,15,100,2024-02-02 16:37:00,2024-02-02 18:18:00,Friday,Friday,16,18,50 off Promo
+521,C8419,R2972,242,20,Cash on Delivery,5% on App,123,18,100,2024-02-05 17:23:00,2024-02-05 17:55:00,Monday,Monday,17,17,5% on App
+522,C4486,R2592,1324,40,Cash on Delivery,10%,156,26,0,2024-01-25 06:23:00,2024-01-25 07:20:00,Thursday,Thursday,6,7,10%
+523,C2810,R2113,1303,50,Digital Wallet,5% on App,173,40,100,2024-01-19 16:49:00,2024-01-19 17:47:00,Friday,Friday,16,17,5% on App
+524,C7588,R2039,813,40,Cash on Delivery,50 off Promo,149,21,0,2024-01-28 04:07:00,2024-01-28 06:03:00,Sunday,Sunday,4,6,50 off Promo
+525,C3923,R2300,1487,20,Cash on Delivery,50 off Promo,92,32,0,2024-01-12 06:19:00,2024-01-12 07:06:00,Friday,Friday,6,7,50 off Promo
+526,C6301,R2223,578,30,Cash on Delivery,50 off Promo,168,14,0,2024-02-06 01:46:00,2024-02-06 02:50:00,Tuesday,Tuesday,1,2,50 off Promo
+527,C5186,R2317,664,30,Credit Card,,72,45,100,2024-01-18 06:20:00,2024-01-18 08:06:00,Thursday,Thursday,6,8,No Discount
+528,C9905,R2348,570,20,Digital Wallet,10%,86,45,0,2024-01-09 02:54:00,2024-01-09 04:39:00,Tuesday,Tuesday,2,4,10%
+529,C6977,R2114,483,40,Cash on Delivery,,183,12,150,2024-01-18 18:04:00,2024-01-18 19:20:00,Thursday,Thursday,18,19,No Discount
+530,C5268,R2697,1815,50,Cash on Delivery,15% New User,114,33,0,2024-02-04 18:17:00,2024-02-04 18:51:00,Sunday,Sunday,18,18,15% New User
+531,C5748,R2322,1025,20,Digital Wallet,10%,183,26,150,2024-01-24 20:42:00,2024-01-24 22:26:00,Wednesday,Wednesday,20,22,10%
+532,C5849,R2567,516,0,Cash on Delivery,5% on App,71,48,50,2024-01-14 22:38:00,2024-01-15 00:06:00,Sunday,Monday,22,0,5% on App
+533,C4709,R2039,1948,40,Credit Card,50 off Promo,154,35,150,2024-02-02 07:05:00,2024-02-02 08:49:00,Friday,Friday,7,8,50 off Promo
+534,C7619,R2865,407,30,Cash on Delivery,15% New User,137,13,0,2024-02-06 22:17:00,2024-02-06 23:45:00,Tuesday,Tuesday,22,23,15% New User
+535,C9647,R2039,748,20,Credit Card,10%,174,21,0,2024-02-02 04:51:00,2024-02-02 06:07:00,Friday,Friday,4,6,10%
+536,C4072,R2858,1817,30,Credit Card,,128,10,0,2024-01-21 10:25:00,2024-01-21 11:07:00,Sunday,Sunday,10,11,No Discount
+537,C7530,R2972,1490,40,Cash on Delivery,50 off Promo,139,30,0,2024-01-15 11:23:00,2024-01-15 13:10:00,Monday,Monday,11,13,50 off Promo
+538,C1504,R2748,1124,30,Digital Wallet,,100,28,150,2024-01-24 08:06:00,2024-01-24 10:04:00,Wednesday,Wednesday,8,10,No Discount
+539,C2214,R2288,1167,20,Credit Card,10%,151,30,0,2024-01-27 21:10:00,2024-01-27 22:12:00,Saturday,Saturday,21,22,10%
+540,C2531,R2261,838,40,Digital Wallet,10%,155,27,0,2024-02-06 17:37:00,2024-02-06 19:08:00,Tuesday,Tuesday,17,19,10%
+541,C8576,R2215,1966,0,Cash on Delivery,15% New User,109,12,0,2024-01-23 20:39:00,2024-01-23 22:27:00,Tuesday,Tuesday,20,22,15% New User
+542,C1823,R2146,1221,20,Credit Card,5% on App,95,41,0,2024-01-02 14:11:00,2024-01-02 14:56:00,Tuesday,Tuesday,14,14,5% on App
+543,C1928,R2335,1843,50,Cash on Delivery,,85,19,100,2024-02-07 12:51:00,2024-02-07 14:04:00,Wednesday,Wednesday,12,14,No Discount
+544,C6029,R2167,1388,20,Digital Wallet,15% New User,60,49,0,2024-01-11 12:41:00,2024-01-11 14:08:00,Thursday,Thursday,12,14,15% New User
+545,C1133,R2091,1923,40,Cash on Delivery,50 off Promo,61,24,0,2024-02-01 11:16:00,2024-02-01 11:51:00,Thursday,Thursday,11,11,50 off Promo
+546,C3105,R2352,1906,20,Cash on Delivery,5% on App,88,14,0,2024-01-19 17:55:00,2024-01-19 19:53:00,Friday,Friday,17,19,5% on App
+547,C4627,R2570,239,0,Credit Card,15% New User,188,13,150,2024-01-30 23:31:00,2024-01-31 00:15:00,Tuesday,Wednesday,23,0,15% New User
+548,C7316,R2570,1604,0,Cash on Delivery,,85,37,150,2024-01-19 20:08:00,2024-01-19 20:41:00,Friday,Friday,20,20,No Discount
+549,C2852,R2815,1360,50,Cash on Delivery,10%,101,13,0,2024-01-25 13:01:00,2024-01-25 14:26:00,Thursday,Thursday,13,14,10%
+550,C5910,R2680,1073,30,Cash on Delivery,50 off Promo,80,24,0,2024-01-12 02:50:00,2024-01-12 04:23:00,Friday,Friday,2,4,50 off Promo
+551,C5175,R2780,1116,40,Credit Card,,82,26,0,2024-01-05 22:43:00,2024-01-06 00:20:00,Friday,Saturday,22,0,No Discount
+552,C6348,R2362,1052,40,Digital Wallet,5% on App,190,12,50,2024-01-30 07:22:00,2024-01-30 08:25:00,Tuesday,Tuesday,7,8,5% on App
+553,C7190,R2556,1003,30,Digital Wallet,5% on App,195,19,0,2024-01-23 09:08:00,2024-01-23 10:33:00,Tuesday,Tuesday,9,10,5% on App
+554,C2256,R2344,171,0,Cash on Delivery,10%,107,32,50,2024-02-03 12:26:00,2024-02-03 13:27:00,Saturday,Saturday,12,13,10%
+555,C4376,R2692,1790,0,Credit Card,10%,177,27,0,2024-01-18 21:03:00,2024-01-18 21:41:00,Thursday,Thursday,21,21,10%
+556,C6645,R2169,1313,20,Cash on Delivery,50 off Promo,80,10,0,2024-01-16 00:27:00,2024-01-16 01:59:00,Tuesday,Tuesday,0,1,50 off Promo
+557,C4486,R2355,1391,50,Digital Wallet,50 off Promo,104,44,0,2024-02-04 00:49:00,2024-02-04 02:30:00,Sunday,Sunday,0,2,50 off Promo
+558,C4584,R2190,1444,50,Credit Card,10%,59,40,0,2024-01-06 01:01:00,2024-01-06 02:48:00,Saturday,Saturday,1,2,10%
+559,C9053,R2666,206,50,Digital Wallet,10%,179,10,0,2024-01-25 22:22:00,2024-01-25 23:24:00,Thursday,Thursday,22,23,10%
+560,C4330,R2421,1355,20,Digital Wallet,5% on App,64,12,0,2024-01-29 03:08:00,2024-01-29 05:04:00,Monday,Monday,3,5,5% on App
+561,C3703,R2699,1165,50,Credit Card,10%,52,12,150,2024-02-07 13:19:00,2024-02-07 14:09:00,Wednesday,Wednesday,13,14,10%
+562,C9662,R2006,1825,30,Credit Card,15% New User,92,46,0,2024-01-15 05:54:00,2024-01-15 07:18:00,Monday,Monday,5,7,15% New User
+563,C9120,R2132,982,20,Cash on Delivery,,116,28,0,2024-02-05 19:43:00,2024-02-05 21:28:00,Monday,Monday,19,21,No Discount
+564,C8114,R2746,238,30,Cash on Delivery,10%,105,38,0,2024-01-29 10:14:00,2024-01-29 11:40:00,Monday,Monday,10,11,10%
+565,C2353,R2556,714,20,Digital Wallet,50 off Promo,112,34,100,2024-01-06 16:00:00,2024-01-06 16:31:00,Saturday,Saturday,16,16,50 off Promo
+566,C6063,R2825,1806,50,Credit Card,15% New User,64,42,0,2024-01-04 08:14:00,2024-01-04 08:56:00,Thursday,Thursday,8,8,15% New User
+567,C9549,R2760,962,30,Credit Card,50 off Promo,158,45,0,2024-01-10 10:07:00,2024-01-10 10:40:00,Wednesday,Wednesday,10,10,50 off Promo
+568,C8575,R2030,372,30,Cash on Delivery,15% New User,165,38,0,2024-01-20 08:38:00,2024-01-20 10:31:00,Saturday,Saturday,8,10,15% New User
+569,C1667,R2534,1604,30,Digital Wallet,10%,141,35,0,2024-01-07 10:17:00,2024-01-07 11:36:00,Sunday,Sunday,10,11,10%
+570,C5468,R2425,515,20,Digital Wallet,,187,13,50,2024-01-11 17:37:00,2024-01-11 18:54:00,Thursday,Thursday,17,18,No Discount
+571,C7819,R2393,605,40,Cash on Delivery,50 off Promo,96,23,0,2024-01-18 21:30:00,2024-01-18 23:17:00,Thursday,Thursday,21,23,50 off Promo
+572,C4719,R2671,832,50,Credit Card,15% New User,106,36,0,2024-02-07 07:01:00,2024-02-07 08:00:00,Wednesday,Wednesday,7,8,15% New User
+573,C3745,R2362,1848,30,Cash on Delivery,5% on App,99,42,0,2024-01-15 08:53:00,2024-01-15 09:51:00,Monday,Monday,8,9,5% on App
+574,C8483,R2436,1976,40,Cash on Delivery,10%,120,31,0,2024-01-27 12:21:00,2024-01-27 12:58:00,Saturday,Saturday,12,12,10%
+575,C1539,R2669,523,50,Cash on Delivery,,192,12,0,2024-01-07 21:05:00,2024-01-07 21:46:00,Sunday,Sunday,21,21,No Discount
+576,C5964,R2550,1530,50,Cash on Delivery,10%,195,32,150,2024-01-01 17:30:00,2024-01-01 18:40:00,Monday,Monday,17,18,10%
+577,C5835,R2926,1691,30,Credit Card,5% on App,131,30,0,2024-01-31 09:59:00,2024-01-31 10:54:00,Wednesday,Wednesday,9,10,5% on App
+578,C4775,R2081,489,30,Cash on Delivery,,165,50,0,2024-02-01 16:40:00,2024-02-01 17:59:00,Thursday,Thursday,16,17,No Discount
+579,C7042,R2355,441,20,Credit Card,5% on App,154,32,50,2024-01-15 20:19:00,2024-01-15 20:50:00,Monday,Monday,20,20,5% on App
+580,C8102,R2257,1045,40,Cash on Delivery,10%,137,13,0,2024-01-03 08:46:00,2024-01-03 10:10:00,Wednesday,Wednesday,8,10,10%
+581,C8312,R2717,713,40,Digital Wallet,15% New User,51,30,50,2024-01-06 19:33:00,2024-01-06 20:58:00,Saturday,Saturday,19,20,15% New User
+582,C6320,R2588,592,30,Credit Card,10%,153,46,150,2024-01-27 01:23:00,2024-01-27 02:06:00,Saturday,Saturday,1,2,10%
+583,C7132,R2988,291,50,Digital Wallet,10%,133,40,0,2024-01-16 10:45:00,2024-01-16 11:20:00,Tuesday,Tuesday,10,11,10%
+584,C8891,R2523,598,30,Cash on Delivery,10%,92,30,0,2024-01-20 10:26:00,2024-01-20 12:16:00,Saturday,Saturday,10,12,10%
+585,C3779,R2294,921,50,Cash on Delivery,50 off Promo,120,35,100,2024-01-13 00:23:00,2024-01-13 02:21:00,Saturday,Saturday,0,2,50 off Promo
+586,C1924,R2961,1835,50,Cash on Delivery,5% on App,143,50,0,2024-01-08 15:35:00,2024-01-08 17:05:00,Monday,Monday,15,17,5% on App
+587,C2581,R2223,1356,30,Credit Card,5% on App,91,44,0,2024-01-18 19:15:00,2024-01-18 19:56:00,Thursday,Thursday,19,19,5% on App
+588,C8714,R2524,326,0,Digital Wallet,5% on App,182,47,0,2024-01-13 20:03:00,2024-01-13 20:45:00,Saturday,Saturday,20,20,5% on App
+589,C4324,R2045,1494,40,Credit Card,50 off Promo,188,33,0,2024-01-20 23:37:00,2024-01-21 00:25:00,Saturday,Sunday,23,0,50 off Promo
+590,C6713,R2666,238,50,Credit Card,15% New User,114,20,0,2024-01-16 20:34:00,2024-01-16 21:47:00,Tuesday,Tuesday,20,21,15% New User
+591,C8026,R2112,955,50,Cash on Delivery,10%,83,50,100,2024-01-20 12:19:00,2024-01-20 14:17:00,Saturday,Saturday,12,14,10%
+592,C1255,R2232,916,0,Digital Wallet,15% New User,169,38,100,2024-01-15 07:23:00,2024-01-15 08:51:00,Monday,Monday,7,8,15% New User
+593,C5804,R2016,1272,20,Cash on Delivery,50 off Promo,50,12,0,2024-01-31 12:38:00,2024-01-31 13:44:00,Wednesday,Wednesday,12,13,50 off Promo
+594,C2838,R2359,1238,0,Credit Card,5% on App,179,10,0,2024-02-07 13:46:00,2024-02-07 14:40:00,Wednesday,Wednesday,13,14,5% on App
+595,C1009,R2222,1573,0,Cash on Delivery,10%,197,28,0,2024-01-09 03:07:00,2024-01-09 03:52:00,Tuesday,Tuesday,3,3,10%
+596,C3871,R2865,1186,50,Digital Wallet,,110,31,0,2024-01-30 10:36:00,2024-01-30 11:43:00,Tuesday,Tuesday,10,11,No Discount
+597,C9989,R2699,203,40,Cash on Delivery,,198,23,0,2024-02-01 20:46:00,2024-02-01 21:58:00,Thursday,Thursday,20,21,No Discount
+598,C8409,R2447,1974,0,Digital Wallet,15% New User,137,23,100,2024-01-28 07:24:00,2024-01-28 09:20:00,Sunday,Sunday,7,9,15% New User
+599,C8418,R2855,970,20,Digital Wallet,5% on App,117,25,0,2024-01-16 15:35:00,2024-01-16 16:18:00,Tuesday,Tuesday,15,16,5% on App
+600,C6124,R2364,767,30,Cash on Delivery,,176,42,0,2024-01-18 22:55:00,2024-01-18 23:30:00,Thursday,Thursday,22,23,No Discount
+601,C2015,R2674,372,0,Credit Card,15% New User,189,22,0,2024-01-12 05:47:00,2024-01-12 07:45:00,Friday,Friday,5,7,15% New User
+602,C3193,R2325,1129,0,Cash on Delivery,50 off Promo,71,47,0,2024-01-06 08:45:00,2024-01-06 09:37:00,Saturday,Saturday,8,9,50 off Promo
+603,C9415,R2466,1270,20,Credit Card,15% New User,197,21,0,2024-01-29 22:43:00,2024-01-30 00:12:00,Monday,Tuesday,22,0,15% New User
+604,C8449,R2413,283,40,Credit Card,15% New User,131,47,150,2024-01-14 17:00:00,2024-01-14 17:41:00,Sunday,Sunday,17,17,15% New User
+605,C5158,R2454,1151,0,Cash on Delivery,15% New User,178,48,0,2024-01-16 10:19:00,2024-01-16 11:01:00,Tuesday,Tuesday,10,11,15% New User
+606,C4925,R2585,1673,0,Credit Card,10%,79,42,150,2024-01-31 04:16:00,2024-01-31 04:51:00,Wednesday,Wednesday,4,4,10%
+607,C7970,R2232,1242,40,Credit Card,15% New User,175,42,0,2024-01-20 14:23:00,2024-01-20 15:55:00,Saturday,Saturday,14,15,15% New User
+608,C7938,R2223,392,20,Cash on Delivery,15% New User,146,38,0,2024-01-22 04:38:00,2024-01-22 05:45:00,Monday,Monday,4,5,15% New User
+609,C5784,R2993,1494,0,Cash on Delivery,10%,73,14,0,2024-01-13 06:15:00,2024-01-13 07:34:00,Saturday,Saturday,6,7,10%
+610,C5000,R2830,1367,40,Cash on Delivery,10%,63,15,0,2024-02-01 13:06:00,2024-02-01 14:27:00,Thursday,Thursday,13,14,10%
+611,C2633,R2411,1703,0,Credit Card,50 off Promo,85,40,100,2024-01-21 00:17:00,2024-01-21 01:26:00,Sunday,Sunday,0,1,50 off Promo
+612,C8266,R2571,1849,30,Digital Wallet,5% on App,73,25,0,2024-01-23 17:26:00,2024-01-23 18:03:00,Tuesday,Tuesday,17,18,5% on App
+613,C9702,R2334,1341,50,Credit Card,,144,40,100,2024-01-16 14:30:00,2024-01-16 16:00:00,Tuesday,Tuesday,14,16,No Discount
+614,C1384,R2221,276,30,Digital Wallet,,104,34,0,2024-01-03 14:30:00,2024-01-03 15:07:00,Wednesday,Wednesday,14,15,No Discount
+615,C1404,R2036,1422,0,Cash on Delivery,15% New User,73,42,0,2024-01-18 01:45:00,2024-01-18 02:48:00,Thursday,Thursday,1,2,15% New User
+616,C9175,R2988,1799,20,Digital Wallet,50 off Promo,75,22,50,2024-01-22 11:37:00,2024-01-22 13:25:00,Monday,Monday,11,13,50 off Promo
+617,C3000,R2277,157,50,Cash on Delivery,15% New User,129,19,0,2024-01-07 21:53:00,2024-01-07 23:22:00,Sunday,Sunday,21,23,15% New User
+618,C6989,R2195,1392,30,Cash on Delivery,,114,33,0,2024-01-10 10:57:00,2024-01-10 12:23:00,Wednesday,Wednesday,10,12,No Discount
+619,C2460,R2915,407,40,Digital Wallet,10%,124,19,100,2024-01-23 23:39:00,2024-01-24 00:54:00,Tuesday,Wednesday,23,0,10%
+620,C8190,R2863,1693,20,Cash on Delivery,5% on App,92,50,0,2024-01-09 07:50:00,2024-01-09 08:41:00,Tuesday,Tuesday,7,8,5% on App
+621,C8140,R2483,1411,30,Digital Wallet,50 off Promo,78,40,0,2024-01-25 00:23:00,2024-01-25 02:19:00,Thursday,Thursday,0,2,50 off Promo
+622,C4636,R2241,1076,40,Cash on Delivery,10%,130,22,0,2024-01-17 12:41:00,2024-01-17 13:50:00,Wednesday,Wednesday,12,13,10%
+623,C5809,R2323,1228,0,Credit Card,5% on App,103,12,0,2024-01-13 18:05:00,2024-01-13 19:19:00,Saturday,Saturday,18,19,5% on App
+624,C5178,R2730,1351,40,Credit Card,50 off Promo,88,43,0,2024-01-30 04:21:00,2024-01-30 05:45:00,Tuesday,Tuesday,4,5,50 off Promo
+625,C8245,R2191,1370,30,Cash on Delivery,50 off Promo,91,37,0,2024-01-25 07:25:00,2024-01-25 08:45:00,Thursday,Thursday,7,8,50 off Promo
+626,C7600,R2016,799,30,Cash on Delivery,,78,28,100,2024-01-23 06:52:00,2024-01-23 08:47:00,Tuesday,Tuesday,6,8,No Discount
+627,C6997,R2523,1617,0,Digital Wallet,10%,180,32,0,2024-02-01 13:13:00,2024-02-01 13:47:00,Thursday,Thursday,13,13,10%
+628,C3048,R2917,182,40,Credit Card,50 off Promo,187,41,100,2024-01-15 09:38:00,2024-01-15 10:20:00,Monday,Monday,9,10,50 off Promo
+629,C5780,R2400,1309,40,Digital Wallet,50 off Promo,191,22,0,2024-01-06 03:02:00,2024-01-06 03:59:00,Saturday,Saturday,3,3,50 off Promo
+630,C1716,R2905,351,0,Cash on Delivery,5% on App,91,42,100,2024-01-13 04:16:00,2024-01-13 06:09:00,Saturday,Saturday,4,6,5% on App
+631,C8939,R2885,1478,40,Cash on Delivery,,143,43,100,2024-02-07 23:56:00,2024-02-08 01:45:00,Wednesday,Thursday,23,1,No Discount
+632,C6565,R2704,1873,0,Digital Wallet,15% New User,81,42,0,2024-01-04 12:30:00,2024-01-04 14:01:00,Thursday,Thursday,12,14,15% New User
+633,C5544,R2021,1995,20,Cash on Delivery,,75,14,0,2024-01-03 13:09:00,2024-01-03 15:05:00,Wednesday,Wednesday,13,15,No Discount
+634,C5976,R2473,1819,30,Credit Card,15% New User,164,12,0,2024-02-01 09:16:00,2024-02-01 10:09:00,Thursday,Thursday,9,10,15% New User
+635,C4419,R2119,895,20,Digital Wallet,10%,178,16,0,2024-01-17 22:07:00,2024-01-17 22:43:00,Wednesday,Wednesday,22,22,10%
+636,C8239,R2209,996,50,Credit Card,10%,105,33,0,2024-01-07 09:35:00,2024-01-07 10:42:00,Sunday,Sunday,9,10,10%
+637,C1249,R2305,309,50,Credit Card,50 off Promo,171,31,100,2024-01-20 15:01:00,2024-01-20 16:07:00,Saturday,Saturday,15,16,50 off Promo
+638,C9865,R2269,915,50,Credit Card,10%,155,32,0,2024-01-27 20:12:00,2024-01-27 21:49:00,Saturday,Saturday,20,21,10%
+639,C1770,R2703,1931,0,Digital Wallet,50 off Promo,179,39,50,2024-01-24 23:54:00,2024-01-25 01:05:00,Wednesday,Thursday,23,1,50 off Promo
+640,C5363,R2686,708,40,Cash on Delivery,,130,27,100,2024-01-17 15:34:00,2024-01-17 17:29:00,Wednesday,Wednesday,15,17,No Discount
+641,C2077,R2284,546,20,Credit Card,10%,169,41,150,2024-01-09 15:52:00,2024-01-09 16:26:00,Tuesday,Tuesday,15,16,10%
+642,C9427,R2715,559,20,Credit Card,,101,16,150,2024-01-31 03:50:00,2024-01-31 05:23:00,Wednesday,Wednesday,3,5,No Discount
+643,C9580,R2675,1067,20,Credit Card,,140,42,0,2024-01-30 03:42:00,2024-01-30 05:01:00,Tuesday,Tuesday,3,5,No Discount
+644,C8901,R2762,571,20,Cash on Delivery,10%,186,14,150,2024-01-20 23:50:00,2024-01-21 01:46:00,Saturday,Sunday,23,1,10%
+645,C5858,R2226,1843,50,Cash on Delivery,,71,37,0,2024-02-02 10:15:00,2024-02-02 10:59:00,Friday,Friday,10,10,No Discount
+646,C7544,R2947,469,20,Digital Wallet,10%,83,17,0,2024-02-05 17:51:00,2024-02-05 19:33:00,Monday,Monday,17,19,10%
+647,C5719,R2380,999,40,Cash on Delivery,10%,159,24,0,2024-01-13 05:14:00,2024-01-13 06:36:00,Saturday,Saturday,5,6,10%
+648,C3814,R2459,1615,50,Digital Wallet,10%,98,13,0,2024-01-22 02:15:00,2024-01-22 03:09:00,Monday,Monday,2,3,10%
+649,C4374,R2006,1022,20,Digital Wallet,15% New User,178,43,0,2024-01-31 23:52:00,2024-02-01 01:50:00,Wednesday,Thursday,23,1,15% New User
+650,C2252,R2028,236,0,Digital Wallet,,122,14,50,2024-02-07 12:40:00,2024-02-07 14:34:00,Wednesday,Wednesday,12,14,No Discount
+651,C7996,R2906,466,30,Digital Wallet,5% on App,133,42,0,2024-01-12 04:06:00,2024-01-12 04:44:00,Friday,Friday,4,4,5% on App
+652,C5673,R2032,1011,30,Digital Wallet,10%,102,14,150,2024-01-07 09:59:00,2024-01-07 11:06:00,Sunday,Sunday,9,11,10%
+653,C5530,R2645,283,30,Credit Card,,149,47,0,2024-01-26 00:18:00,2024-01-26 01:09:00,Friday,Friday,0,1,No Discount
+654,C7881,R2878,1711,50,Cash on Delivery,50 off Promo,173,43,0,2024-01-27 20:34:00,2024-01-27 22:30:00,Saturday,Saturday,20,22,50 off Promo
+655,C7949,R2078,1410,20,Credit Card,10%,94,35,0,2024-02-02 16:09:00,2024-02-02 17:27:00,Friday,Friday,16,17,10%
+656,C7241,R2927,571,50,Digital Wallet,10%,186,10,0,2024-01-06 15:25:00,2024-01-06 17:02:00,Saturday,Saturday,15,17,10%
+657,C9017,R2946,1498,40,Cash on Delivery,5% on App,154,13,0,2024-01-26 00:11:00,2024-01-26 00:55:00,Friday,Friday,0,0,5% on App
+658,C7941,R2458,753,0,Credit Card,15% New User,199,48,0,2024-01-19 12:42:00,2024-01-19 14:16:00,Friday,Friday,12,14,15% New User
+659,C8002,R2569,848,0,Credit Card,15% New User,195,35,0,2024-01-20 08:57:00,2024-01-20 10:20:00,Saturday,Saturday,8,10,15% New User
+660,C2331,R2982,636,30,Digital Wallet,10%,155,42,0,2024-01-21 14:39:00,2024-01-21 15:38:00,Sunday,Sunday,14,15,10%
+661,C5261,R2537,1634,30,Credit Card,,92,42,0,2024-01-23 04:56:00,2024-01-23 05:45:00,Tuesday,Tuesday,4,5,No Discount
+662,C8648,R2481,901,30,Credit Card,50 off Promo,183,17,0,2024-01-11 02:59:00,2024-01-11 04:01:00,Thursday,Thursday,2,4,50 off Promo
+663,C6115,R2429,1702,20,Credit Card,50 off Promo,97,29,0,2024-02-05 09:51:00,2024-02-05 11:46:00,Monday,Monday,9,11,50 off Promo
+664,C5637,R2737,1373,40,Credit Card,,175,25,0,2024-01-02 15:13:00,2024-01-02 16:59:00,Tuesday,Tuesday,15,16,No Discount
+665,C5854,R2284,1019,40,Credit Card,10%,56,30,0,2024-02-01 16:08:00,2024-02-01 16:44:00,Thursday,Thursday,16,16,10%
+666,C4177,R2515,609,40,Digital Wallet,50 off Promo,65,35,0,2024-01-19 18:20:00,2024-01-19 18:57:00,Friday,Friday,18,18,50 off Promo
+667,C8730,R2976,729,40,Digital Wallet,15% New User,178,32,0,2024-01-05 15:58:00,2024-01-05 16:55:00,Friday,Friday,15,16,15% New User
+668,C3180,R2098,1101,30,Credit Card,,164,27,0,2024-01-03 07:52:00,2024-01-03 09:06:00,Wednesday,Wednesday,7,9,No Discount
+669,C5892,R2396,1196,0,Digital Wallet,5% on App,86,40,0,2024-01-12 21:41:00,2024-01-12 23:23:00,Friday,Friday,21,23,5% on App
+670,C8043,R2488,1405,30,Digital Wallet,10%,174,21,0,2024-01-12 19:41:00,2024-01-12 21:39:00,Friday,Friday,19,21,10%
+671,C1137,R2038,1015,40,Cash on Delivery,,130,10,0,2024-02-01 19:01:00,2024-02-01 20:50:00,Thursday,Thursday,19,20,No Discount
+672,C7327,R2270,1483,30,Credit Card,50 off Promo,111,18,0,2024-02-01 01:57:00,2024-02-01 03:40:00,Thursday,Thursday,1,3,50 off Promo
+673,C4472,R2886,1133,40,Digital Wallet,10%,121,12,0,2024-01-18 08:34:00,2024-01-18 09:14:00,Thursday,Thursday,8,9,10%
+674,C6449,R2796,1334,50,Digital Wallet,15% New User,174,35,0,2024-01-14 23:29:00,2024-01-15 00:29:00,Sunday,Monday,23,0,15% New User
+675,C3832,R2156,1958,0,Credit Card,10%,115,18,100,2024-01-02 01:43:00,2024-01-02 02:24:00,Tuesday,Tuesday,1,2,10%
+676,C4579,R2074,251,50,Cash on Delivery,10%,79,25,0,2024-02-06 18:08:00,2024-02-06 19:55:00,Tuesday,Tuesday,18,19,10%
+677,C6971,R2883,1128,20,Credit Card,15% New User,69,33,0,2024-01-08 06:44:00,2024-01-08 08:04:00,Monday,Monday,6,8,15% New User
+678,C5164,R2799,1318,30,Cash on Delivery,15% New User,131,23,0,2024-01-23 16:25:00,2024-01-23 17:38:00,Tuesday,Tuesday,16,17,15% New User
+679,C8941,R2129,1406,20,Credit Card,10%,156,12,100,2024-02-04 20:04:00,2024-02-04 21:23:00,Sunday,Sunday,20,21,10%
+680,C6569,R2686,563,30,Credit Card,15% New User,181,43,0,2024-01-18 13:41:00,2024-01-18 14:27:00,Thursday,Thursday,13,14,15% New User
+681,C5300,R2973,1236,50,Credit Card,,86,42,0,2024-01-20 18:49:00,2024-01-20 19:53:00,Saturday,Saturday,18,19,No Discount
+682,C7269,R2083,370,40,Credit Card,15% New User,181,33,0,2024-01-24 07:15:00,2024-01-24 07:45:00,Wednesday,Wednesday,7,7,15% New User
+683,C4818,R2021,1286,40,Cash on Delivery,15% New User,126,18,0,2024-01-22 17:32:00,2024-01-22 18:30:00,Monday,Monday,17,18,15% New User
+684,C2906,R2458,559,30,Cash on Delivery,10%,138,22,50,2024-01-30 03:37:00,2024-01-30 04:57:00,Tuesday,Tuesday,3,4,10%
+685,C7254,R2538,204,40,Digital Wallet,,195,11,0,2024-01-07 23:31:00,2024-01-08 01:04:00,Sunday,Monday,23,1,No Discount
+686,C1760,R2706,1816,50,Credit Card,5% on App,137,16,0,2024-01-01 10:54:00,2024-01-01 11:27:00,Monday,Monday,10,11,5% on App
+687,C8830,R2848,1679,40,Cash on Delivery,5% on App,82,30,0,2024-01-05 07:18:00,2024-01-05 09:14:00,Friday,Friday,7,9,5% on App
+688,C8350,R2381,1405,50,Cash on Delivery,50 off Promo,107,28,150,2024-01-24 00:46:00,2024-01-24 01:43:00,Wednesday,Wednesday,0,1,50 off Promo
+689,C7238,R2747,1810,20,Cash on Delivery,15% New User,77,34,100,2024-01-26 23:50:00,2024-01-27 00:35:00,Friday,Saturday,23,0,15% New User
+690,C7090,R2439,261,50,Credit Card,15% New User,84,31,0,2024-01-13 20:13:00,2024-01-13 21:45:00,Saturday,Saturday,20,21,15% New User
+691,C7031,R2603,450,0,Digital Wallet,,174,20,100,2024-02-03 05:30:00,2024-02-03 07:15:00,Saturday,Saturday,5,7,No Discount
+692,C8687,R2988,533,0,Cash on Delivery,5% on App,187,42,0,2024-01-16 01:54:00,2024-01-16 03:16:00,Tuesday,Tuesday,1,3,5% on App
+693,C9472,R2020,951,0,Credit Card,50 off Promo,114,41,0,2024-02-01 19:42:00,2024-02-01 21:36:00,Thursday,Thursday,19,21,50 off Promo
+694,C2887,R2302,239,30,Cash on Delivery,,91,30,0,2024-01-21 03:04:00,2024-01-21 03:50:00,Sunday,Sunday,3,3,No Discount
+695,C4266,R2975,1594,30,Cash on Delivery,15% New User,134,48,50,2024-01-06 03:42:00,2024-01-06 04:51:00,Saturday,Saturday,3,4,15% New User
+696,C1666,R2868,1255,30,Digital Wallet,5% on App,186,29,0,2024-01-18 19:21:00,2024-01-18 20:03:00,Thursday,Thursday,19,20,5% on App
+697,C5188,R2954,186,50,Cash on Delivery,50 off Promo,160,17,0,2024-01-31 06:44:00,2024-01-31 08:05:00,Wednesday,Wednesday,6,8,50 off Promo
+698,C1671,R2083,1811,30,Cash on Delivery,10%,64,46,0,2024-02-02 21:53:00,2024-02-02 23:20:00,Friday,Friday,21,23,10%
+699,C7777,R2773,282,20,Credit Card,5% on App,118,18,100,2024-01-15 13:10:00,2024-01-15 14:16:00,Monday,Monday,13,14,5% on App
+700,C8570,R2658,467,0,Credit Card,50 off Promo,154,34,150,2024-01-27 09:06:00,2024-01-27 10:54:00,Saturday,Saturday,9,10,50 off Promo
+701,C8956,R2952,228,50,Digital Wallet,,199,34,0,2024-02-07 12:56:00,2024-02-07 14:41:00,Wednesday,Wednesday,12,14,No Discount
+702,C6124,R2452,1369,0,Credit Card,10%,113,42,100,2024-01-11 22:08:00,2024-01-11 23:38:00,Thursday,Thursday,22,23,10%
+703,C6585,R2386,1724,30,Credit Card,50 off Promo,90,11,50,2024-01-18 09:02:00,2024-01-18 10:50:00,Thursday,Thursday,9,10,50 off Promo
+704,C5777,R2506,1701,50,Digital Wallet,50 off Promo,120,28,0,2024-01-02 10:14:00,2024-01-02 11:17:00,Tuesday,Tuesday,10,11,50 off Promo
+705,C4900,R2256,769,40,Cash on Delivery,15% New User,105,29,100,2024-02-05 14:30:00,2024-02-05 16:09:00,Monday,Monday,14,16,15% New User
+706,C7677,R2569,1501,20,Digital Wallet,5% on App,200,50,0,2024-01-16 06:00:00,2024-01-16 06:46:00,Tuesday,Tuesday,6,6,5% on App
+707,C7981,R2891,248,30,Credit Card,15% New User,74,38,0,2024-02-05 13:26:00,2024-02-05 14:15:00,Monday,Monday,13,14,15% New User
+708,C7376,R2933,1084,30,Digital Wallet,10%,154,15,0,2024-01-12 14:39:00,2024-01-12 16:21:00,Friday,Friday,14,16,10%
+709,C1523,R2526,951,20,Cash on Delivery,50 off Promo,183,26,50,2024-02-04 23:03:00,2024-02-05 00:31:00,Sunday,Monday,23,0,50 off Promo
+710,C3393,R2161,1556,20,Digital Wallet,15% New User,168,34,0,2024-01-24 18:26:00,2024-01-24 20:04:00,Wednesday,Wednesday,18,20,15% New User
+711,C3593,R2956,727,40,Credit Card,5% on App,58,47,0,2024-02-03 13:45:00,2024-02-03 15:41:00,Saturday,Saturday,13,15,5% on App
+712,C8240,R2162,1849,30,Credit Card,10%,109,13,0,2024-01-16 20:41:00,2024-01-16 21:43:00,Tuesday,Tuesday,20,21,10%
+713,C7937,R2831,1592,30,Digital Wallet,,174,39,50,2024-02-03 00:06:00,2024-02-03 01:53:00,Saturday,Saturday,0,1,No Discount
+714,C7190,R2792,545,0,Cash on Delivery,15% New User,98,29,0,2024-01-20 10:57:00,2024-01-20 11:43:00,Saturday,Saturday,10,11,15% New User
+715,C6240,R2791,1604,50,Digital Wallet,10%,100,12,0,2024-01-19 15:45:00,2024-01-19 17:11:00,Friday,Friday,15,17,10%
+716,C7493,R2523,983,50,Cash on Delivery,,119,32,0,2024-01-02 07:23:00,2024-01-02 09:15:00,Tuesday,Tuesday,7,9,No Discount
+717,C3878,R2785,393,0,Cash on Delivery,15% New User,86,27,0,2024-01-13 22:34:00,2024-01-13 23:04:00,Saturday,Saturday,22,23,15% New User
+718,C5143,R2270,1888,50,Digital Wallet,10%,80,35,0,2024-01-13 05:54:00,2024-01-13 06:36:00,Saturday,Saturday,5,6,10%
+719,C4644,R2491,1266,20,Cash on Delivery,10%,111,45,0,2024-01-15 08:32:00,2024-01-15 09:28:00,Monday,Monday,8,9,10%
+720,C5432,R2207,349,50,Credit Card,15% New User,142,17,150,2024-01-12 08:44:00,2024-01-12 10:23:00,Friday,Friday,8,10,15% New User
+721,C2276,R2538,977,50,Digital Wallet,10%,63,26,100,2024-01-20 07:25:00,2024-01-20 08:53:00,Saturday,Saturday,7,8,10%
+722,C6811,R2583,1047,0,Cash on Delivery,50 off Promo,128,40,100,2024-01-09 06:07:00,2024-01-09 06:42:00,Tuesday,Tuesday,6,6,50 off Promo
+723,C1302,R2059,1074,40,Credit Card,15% New User,57,46,0,2024-01-19 17:38:00,2024-01-19 18:30:00,Friday,Friday,17,18,15% New User
+724,C1638,R2429,1425,50,Digital Wallet,10%,85,42,100,2024-01-23 16:30:00,2024-01-23 17:09:00,Tuesday,Tuesday,16,17,10%
+725,C1055,R2984,1148,50,Credit Card,,97,36,0,2024-01-18 08:41:00,2024-01-18 10:01:00,Thursday,Thursday,8,10,No Discount
+726,C9717,R2656,888,40,Credit Card,,134,13,0,2024-01-01 07:26:00,2024-01-01 08:14:00,Monday,Monday,7,8,No Discount
+727,C9150,R2604,1083,0,Credit Card,50 off Promo,77,31,0,2024-01-15 04:10:00,2024-01-15 05:30:00,Monday,Monday,4,5,50 off Promo
+728,C3125,R2308,988,40,Cash on Delivery,15% New User,100,35,0,2024-01-05 19:23:00,2024-01-05 21:19:00,Friday,Friday,19,21,15% New User
+729,C1364,R2519,989,0,Digital Wallet,10%,153,41,0,2024-01-01 19:28:00,2024-01-01 21:05:00,Monday,Monday,19,21,10%
+730,C7809,R2590,169,20,Digital Wallet,10%,150,33,0,2024-01-22 16:28:00,2024-01-22 18:21:00,Monday,Monday,16,18,10%
+731,C5621,R2026,724,0,Cash on Delivery,,78,44,100,2024-01-15 06:42:00,2024-01-15 08:34:00,Monday,Monday,6,8,No Discount
+732,C6126,R2685,974,20,Digital Wallet,50 off Promo,176,46,0,2024-02-01 13:27:00,2024-02-01 14:38:00,Thursday,Thursday,13,14,50 off Promo
+733,C6122,R2561,1235,20,Credit Card,,131,41,0,2024-01-30 17:16:00,2024-01-30 18:42:00,Tuesday,Tuesday,17,18,No Discount
+734,C2646,R2198,1487,0,Digital Wallet,,59,16,0,2024-02-04 10:48:00,2024-02-04 12:25:00,Sunday,Sunday,10,12,No Discount
+735,C1918,R2386,1426,30,Cash on Delivery,50 off Promo,155,42,0,2024-01-18 14:06:00,2024-01-18 15:13:00,Thursday,Thursday,14,15,50 off Promo
+736,C3797,R2348,570,0,Credit Card,15% New User,50,40,0,2024-01-23 18:49:00,2024-01-23 20:20:00,Tuesday,Tuesday,18,20,15% New User
+737,C7506,R2959,190,50,Cash on Delivery,10%,88,21,50,2024-01-29 23:44:00,2024-01-30 00:20:00,Monday,Tuesday,23,0,10%
+738,C6870,R2939,629,50,Credit Card,15% New User,70,20,0,2024-01-21 06:19:00,2024-01-21 07:59:00,Sunday,Sunday,6,7,15% New User
+739,C2531,R2692,760,30,Credit Card,5% on App,114,33,100,2024-01-10 23:50:00,2024-01-11 01:09:00,Wednesday,Thursday,23,1,5% on App
+740,C9172,R2535,838,20,Digital Wallet,5% on App,64,17,50,2024-01-11 04:25:00,2024-01-11 05:46:00,Thursday,Thursday,4,5,5% on App
+741,C4345,R2827,825,30,Credit Card,5% on App,181,41,0,2024-01-11 05:57:00,2024-01-11 06:52:00,Thursday,Thursday,5,6,5% on App
+742,C8673,R2377,971,50,Cash on Delivery,50 off Promo,110,47,0,2024-01-01 23:21:00,2024-01-02 00:16:00,Monday,Tuesday,23,0,50 off Promo
+743,C7949,R2898,1786,30,Digital Wallet,,197,31,0,2024-01-16 01:29:00,2024-01-16 02:17:00,Tuesday,Tuesday,1,2,No Discount
+744,C7882,R2915,291,0,Cash on Delivery,15% New User,187,43,0,2024-01-12 07:53:00,2024-01-12 08:31:00,Friday,Friday,7,8,15% New User
+745,C2906,R2557,1675,30,Credit Card,10%,136,28,0,2024-02-07 07:25:00,2024-02-07 08:55:00,Wednesday,Wednesday,7,8,10%
+746,C4086,R2526,1365,20,Cash on Delivery,5% on App,154,29,0,2024-01-28 15:55:00,2024-01-28 16:44:00,Sunday,Sunday,15,16,5% on App
+747,C9152,R2152,237,0,Cash on Delivery,15% New User,83,23,0,2024-01-26 17:06:00,2024-01-26 18:25:00,Friday,Friday,17,18,15% New User
+748,C6750,R2733,444,40,Credit Card,5% on App,173,42,0,2024-01-26 15:53:00,2024-01-26 17:42:00,Friday,Friday,15,17,5% on App
+749,C9905,R2205,1303,50,Digital Wallet,5% on App,159,19,0,2024-01-03 01:57:00,2024-01-03 03:47:00,Wednesday,Wednesday,1,3,5% on App
+750,C2062,R2454,1108,50,Cash on Delivery,10%,82,25,0,2024-01-19 00:21:00,2024-01-19 01:12:00,Friday,Friday,0,1,10%
+751,C2976,R2272,1835,30,Credit Card,50 off Promo,147,13,100,2024-01-31 18:38:00,2024-01-31 19:20:00,Wednesday,Wednesday,18,19,50 off Promo
+752,C2296,R2893,602,0,Digital Wallet,,110,36,150,2024-01-04 13:01:00,2024-01-04 13:42:00,Thursday,Thursday,13,13,No Discount
+753,C7229,R2235,302,40,Digital Wallet,50 off Promo,59,37,0,2024-01-15 07:28:00,2024-01-15 08:07:00,Monday,Monday,7,8,50 off Promo
+754,C8641,R2851,672,0,Digital Wallet,15% New User,133,25,100,2024-01-17 08:00:00,2024-01-17 09:34:00,Wednesday,Wednesday,8,9,15% New User
+755,C1125,R2739,291,50,Cash on Delivery,50 off Promo,114,42,100,2024-01-08 21:50:00,2024-01-08 22:49:00,Monday,Monday,21,22,50 off Promo
+756,C5632,R2520,104,0,Cash on Delivery,15% New User,126,28,0,2024-01-18 21:47:00,2024-01-18 22:24:00,Thursday,Thursday,21,22,15% New User
+757,C7288,R2677,1360,40,Cash on Delivery,15% New User,50,30,0,2024-01-29 18:14:00,2024-01-29 19:04:00,Monday,Monday,18,19,15% New User
+758,C4596,R2943,1816,30,Digital Wallet,,182,31,100,2024-01-11 00:36:00,2024-01-11 01:27:00,Thursday,Thursday,0,1,No Discount
+759,C7168,R2955,410,20,Cash on Delivery,10%,129,18,0,2024-01-08 05:01:00,2024-01-08 05:48:00,Monday,Monday,5,5,10%
+760,C8561,R2830,648,0,Credit Card,,64,18,0,2024-01-10 17:52:00,2024-01-10 19:27:00,Wednesday,Wednesday,17,19,No Discount
+761,C9258,R2725,155,20,Cash on Delivery,50 off Promo,77,18,0,2024-01-04 23:45:00,2024-01-05 01:02:00,Thursday,Friday,23,1,50 off Promo
+762,C1232,R2500,542,50,Cash on Delivery,15% New User,72,36,50,2024-01-08 07:42:00,2024-01-08 08:55:00,Monday,Monday,7,8,15% New User
+763,C7371,R2116,1360,30,Digital Wallet,5% on App,158,26,150,2024-02-03 08:28:00,2024-02-03 09:06:00,Saturday,Saturday,8,9,5% on App
+764,C5206,R2385,969,30,Cash on Delivery,5% on App,156,17,100,2024-02-05 23:38:00,2024-02-06 01:14:00,Monday,Tuesday,23,1,5% on App
+765,C8943,R2343,1984,0,Credit Card,15% New User,194,25,150,2024-01-06 05:19:00,2024-01-06 06:42:00,Saturday,Saturday,5,6,15% New User
+766,C7891,R2583,1320,30,Digital Wallet,,162,27,0,2024-01-13 19:23:00,2024-01-13 20:18:00,Saturday,Saturday,19,20,No Discount
+767,C7738,R2394,684,0,Credit Card,10%,147,42,0,2024-01-15 15:38:00,2024-01-15 17:32:00,Monday,Monday,15,17,10%
+768,C3472,R2063,1694,0,Digital Wallet,,190,10,50,2024-01-25 13:02:00,2024-01-25 13:57:00,Thursday,Thursday,13,13,No Discount
+769,C3739,R2716,851,20,Digital Wallet,15% New User,191,21,0,2024-01-11 04:33:00,2024-01-11 05:36:00,Thursday,Thursday,4,5,15% New User
+770,C6401,R2720,1637,30,Cash on Delivery,15% New User,188,15,0,2024-01-21 06:54:00,2024-01-21 07:31:00,Sunday,Sunday,6,7,15% New User
+771,C2761,R2071,1572,0,Credit Card,10%,77,50,50,2024-02-07 09:33:00,2024-02-07 10:12:00,Wednesday,Wednesday,9,10,10%
+772,C1876,R2788,459,20,Digital Wallet,50 off Promo,91,14,0,2024-01-26 22:34:00,2024-01-26 23:51:00,Friday,Friday,22,23,50 off Promo
+773,C4812,R2273,1823,40,Cash on Delivery,50 off Promo,148,25,0,2024-02-06 04:11:00,2024-02-06 05:35:00,Tuesday,Tuesday,4,5,50 off Promo
+774,C2460,R2989,918,20,Digital Wallet,10%,110,27,0,2024-01-20 14:01:00,2024-01-20 15:24:00,Saturday,Saturday,14,15,10%
+775,C2733,R2319,129,20,Digital Wallet,50 off Promo,172,27,0,2024-01-04 16:17:00,2024-01-04 18:04:00,Thursday,Thursday,16,18,50 off Promo
+776,C2605,R2337,1902,0,Digital Wallet,5% on App,113,10,0,2024-01-21 00:13:00,2024-01-21 01:22:00,Sunday,Sunday,0,1,5% on App
+777,C6622,R2365,207,50,Digital Wallet,50 off Promo,80,28,0,2024-01-15 05:12:00,2024-01-15 05:56:00,Monday,Monday,5,5,50 off Promo
+778,C7767,R2494,943,50,Digital Wallet,50 off Promo,130,17,0,2024-01-31 20:34:00,2024-01-31 22:24:00,Wednesday,Wednesday,20,22,50 off Promo
+779,C7986,R2606,1725,50,Digital Wallet,50 off Promo,59,12,0,2024-01-06 14:40:00,2024-01-06 15:27:00,Saturday,Saturday,14,15,50 off Promo
+780,C4517,R2165,816,20,Cash on Delivery,5% on App,57,34,0,2024-01-15 04:35:00,2024-01-15 05:27:00,Monday,Monday,4,5,5% on App
+781,C4735,R2543,990,0,Digital Wallet,50 off Promo,198,14,0,2024-01-30 04:01:00,2024-01-30 05:32:00,Tuesday,Tuesday,4,5,50 off Promo
+782,C9434,R2010,1059,30,Credit Card,5% on App,108,49,0,2024-01-19 20:57:00,2024-01-19 22:12:00,Friday,Friday,20,22,5% on App
+783,C3590,R2300,1568,20,Cash on Delivery,10%,79,28,0,2024-01-17 10:19:00,2024-01-17 12:15:00,Wednesday,Wednesday,10,12,10%
+784,C2063,R2728,992,20,Credit Card,,194,27,100,2024-01-13 04:18:00,2024-01-13 05:26:00,Saturday,Saturday,4,5,No Discount
+785,C5324,R2800,1561,0,Digital Wallet,10%,69,40,0,2024-01-19 12:25:00,2024-01-19 13:09:00,Friday,Friday,12,13,10%
+786,C6342,R2101,831,40,Credit Card,,97,42,0,2024-01-26 01:13:00,2024-01-26 02:35:00,Friday,Friday,1,2,No Discount
+787,C1005,R2424,705,20,Digital Wallet,10%,179,27,0,2024-01-13 21:51:00,2024-01-13 23:48:00,Saturday,Saturday,21,23,10%
+788,C8489,R2391,556,40,Digital Wallet,,86,48,0,2024-01-28 05:50:00,2024-01-28 07:23:00,Sunday,Sunday,5,7,No Discount
+789,C9659,R2778,714,40,Cash on Delivery,,178,25,150,2024-01-31 10:35:00,2024-01-31 12:07:00,Wednesday,Wednesday,10,12,No Discount
+790,C9195,R2213,1858,50,Cash on Delivery,15% New User,181,25,0,2024-02-03 11:27:00,2024-02-03 13:16:00,Saturday,Saturday,11,13,15% New User
+791,C6966,R2690,797,0,Digital Wallet,,149,47,0,2024-01-23 23:08:00,2024-01-23 23:53:00,Tuesday,Tuesday,23,23,No Discount
+792,C9837,R2087,1819,40,Cash on Delivery,,103,50,0,2024-01-29 06:41:00,2024-01-29 08:20:00,Monday,Monday,6,8,No Discount
+793,C1117,R2552,1618,0,Credit Card,15% New User,171,16,50,2024-01-11 01:12:00,2024-01-11 02:47:00,Thursday,Thursday,1,2,15% New User
+794,C3551,R2400,773,50,Cash on Delivery,50 off Promo,74,23,100,2024-01-21 07:39:00,2024-01-21 08:21:00,Sunday,Sunday,7,8,50 off Promo
+795,C6560,R2587,1370,0,Cash on Delivery,50 off Promo,180,34,150,2024-01-01 08:15:00,2024-01-01 09:31:00,Monday,Monday,8,9,50 off Promo
+796,C5289,R2888,642,20,Credit Card,15% New User,58,41,150,2024-01-14 17:19:00,2024-01-14 17:57:00,Sunday,Sunday,17,17,15% New User
+797,C1846,R2045,1687,40,Cash on Delivery,5% on App,83,47,0,2024-01-02 05:02:00,2024-01-02 06:34:00,Tuesday,Tuesday,5,6,5% on App
+798,C7316,R2671,956,0,Digital Wallet,,92,31,100,2024-01-28 07:10:00,2024-01-28 08:13:00,Sunday,Sunday,7,8,No Discount
+799,C7469,R2462,1711,30,Credit Card,,123,25,0,2024-01-10 05:05:00,2024-01-10 06:55:00,Wednesday,Wednesday,5,6,No Discount
+800,C9915,R2591,996,0,Digital Wallet,15% New User,143,38,0,2024-01-19 20:35:00,2024-01-19 21:33:00,Friday,Friday,20,21,15% New User
+801,C1224,R2309,1562,40,Credit Card,15% New User,71,25,0,2024-01-11 06:40:00,2024-01-11 07:46:00,Thursday,Thursday,6,7,15% New User
+802,C5208,R2085,377,50,Digital Wallet,5% on App,119,21,0,2024-02-04 09:29:00,2024-02-04 10:41:00,Sunday,Sunday,9,10,5% on App
+803,C7283,R2091,651,50,Digital Wallet,50 off Promo,179,26,0,2024-01-31 19:39:00,2024-01-31 21:34:00,Wednesday,Wednesday,19,21,50 off Promo
+804,C3048,R2659,1736,40,Cash on Delivery,10%,143,46,0,2024-01-22 03:12:00,2024-01-22 04:45:00,Monday,Monday,3,4,10%
+805,C7233,R2672,210,20,Digital Wallet,50 off Promo,81,36,0,2024-01-27 23:17:00,2024-01-28 00:10:00,Saturday,Sunday,23,0,50 off Promo
+806,C2828,R2713,484,20,Cash on Delivery,,155,34,150,2024-01-12 08:56:00,2024-01-12 10:36:00,Friday,Friday,8,10,No Discount
+807,C2917,R2935,1956,50,Credit Card,15% New User,193,22,0,2024-01-30 02:03:00,2024-01-30 03:06:00,Tuesday,Tuesday,2,3,15% New User
+808,C5234,R2927,860,50,Digital Wallet,5% on App,50,17,50,2024-01-25 21:51:00,2024-01-25 23:08:00,Thursday,Thursday,21,23,5% on App
+809,C7988,R2241,1314,40,Digital Wallet,50 off Promo,121,14,100,2024-01-30 09:33:00,2024-01-30 10:14:00,Tuesday,Tuesday,9,10,50 off Promo
+810,C3026,R2864,1613,20,Credit Card,5% on App,99,21,0,2024-01-30 18:38:00,2024-01-30 19:30:00,Tuesday,Tuesday,18,19,5% on App
+811,C4744,R2001,793,50,Credit Card,50 off Promo,190,50,0,2024-01-28 18:08:00,2024-01-28 19:56:00,Sunday,Sunday,18,19,50 off Promo
+812,C1009,R2224,1549,20,Digital Wallet,,64,12,0,2024-01-28 02:33:00,2024-01-28 03:15:00,Sunday,Sunday,2,3,No Discount
+813,C1260,R2800,504,50,Credit Card,10%,102,44,150,2024-01-30 13:15:00,2024-01-30 15:11:00,Tuesday,Tuesday,13,15,10%
+814,C7038,R2744,1458,0,Cash on Delivery,5% on App,57,42,50,2024-01-07 07:40:00,2024-01-07 08:54:00,Sunday,Sunday,7,8,5% on App
+815,C3219,R2972,1332,30,Credit Card,5% on App,123,31,0,2024-01-14 05:40:00,2024-01-14 07:14:00,Sunday,Sunday,5,7,5% on App
+816,C8041,R2925,121,0,Credit Card,10%,95,18,0,2024-01-17 14:10:00,2024-01-17 15:26:00,Wednesday,Wednesday,14,15,10%
+817,C3060,R2928,777,50,Digital Wallet,5% on App,118,50,150,2024-01-19 23:48:00,2024-01-20 01:15:00,Friday,Saturday,23,1,5% on App
+818,C6287,R2588,710,30,Cash on Delivery,5% on App,163,27,50,2024-01-20 18:10:00,2024-01-20 18:44:00,Saturday,Saturday,18,18,5% on App
+819,C2619,R2115,1331,30,Credit Card,50 off Promo,196,38,50,2024-01-08 23:32:00,2024-01-09 01:18:00,Monday,Tuesday,23,1,50 off Promo
+820,C9512,R2665,107,50,Cash on Delivery,50 off Promo,172,48,0,2024-02-02 06:47:00,2024-02-02 07:21:00,Friday,Friday,6,7,50 off Promo
+821,C2342,R2917,801,50,Cash on Delivery,10%,188,36,50,2024-02-03 01:41:00,2024-02-03 03:10:00,Saturday,Saturday,1,3,10%
+822,C3832,R2102,1810,20,Cash on Delivery,,166,45,0,2024-02-07 08:03:00,2024-02-07 08:53:00,Wednesday,Wednesday,8,8,No Discount
+823,C3824,R2193,1908,50,Digital Wallet,5% on App,92,26,0,2024-02-05 19:30:00,2024-02-05 20:23:00,Monday,Monday,19,20,5% on App
+824,C2994,R2165,628,40,Credit Card,,69,43,0,2024-01-27 02:02:00,2024-01-27 02:49:00,Saturday,Saturday,2,2,No Discount
+825,C4490,R2870,701,50,Digital Wallet,10%,197,12,0,2024-01-20 02:15:00,2024-01-20 03:05:00,Saturday,Saturday,2,3,10%
+826,C8984,R2089,1776,40,Credit Card,10%,70,14,0,2024-01-13 22:04:00,2024-01-13 23:27:00,Saturday,Saturday,22,23,10%
+827,C2604,R2685,756,50,Credit Card,50 off Promo,131,23,0,2024-01-30 06:17:00,2024-01-30 06:56:00,Tuesday,Tuesday,6,6,50 off Promo
+828,C1235,R2121,265,20,Digital Wallet,5% on App,106,12,0,2024-01-31 07:26:00,2024-01-31 08:19:00,Wednesday,Wednesday,7,8,5% on App
+829,C2908,R2142,948,40,Cash on Delivery,15% New User,123,32,50,2024-01-26 15:06:00,2024-01-26 17:00:00,Friday,Friday,15,17,15% New User
+830,C9567,R2993,595,0,Cash on Delivery,10%,147,48,0,2024-02-05 20:59:00,2024-02-05 22:57:00,Monday,Monday,20,22,10%
+831,C4530,R2105,689,40,Credit Card,5% on App,159,39,0,2024-01-18 05:44:00,2024-01-18 07:13:00,Thursday,Thursday,5,7,5% on App
+832,C6256,R2886,528,20,Digital Wallet,,164,32,0,2024-01-20 11:07:00,2024-01-20 12:33:00,Saturday,Saturday,11,12,No Discount
+833,C3635,R2427,873,40,Cash on Delivery,50 off Promo,91,36,0,2024-01-13 08:33:00,2024-01-13 09:25:00,Saturday,Saturday,8,9,50 off Promo
+834,C9162,R2304,262,50,Cash on Delivery,,117,19,0,2024-01-06 23:26:00,2024-01-07 00:17:00,Saturday,Sunday,23,0,No Discount
+835,C3560,R2871,465,50,Credit Card,10%,119,34,0,2024-01-08 17:02:00,2024-01-08 18:39:00,Monday,Monday,17,18,10%
+836,C6415,R2970,1649,20,Credit Card,10%,127,22,50,2024-02-02 06:32:00,2024-02-02 07:35:00,Friday,Friday,6,7,10%
+837,C4391,R2316,1362,30,Digital Wallet,,139,25,0,2024-01-31 15:37:00,2024-01-31 17:16:00,Wednesday,Wednesday,15,17,No Discount
+838,C6951,R2962,171,50,Credit Card,10%,160,50,0,2024-01-15 09:18:00,2024-01-15 10:15:00,Monday,Monday,9,10,10%
+839,C6468,R2634,1568,0,Cash on Delivery,5% on App,161,43,0,2024-01-17 12:14:00,2024-01-17 13:22:00,Wednesday,Wednesday,12,13,5% on App
+840,C9007,R2901,754,20,Cash on Delivery,10%,152,46,0,2024-01-26 22:49:00,2024-01-27 00:00:00,Friday,Saturday,22,0,10%
+841,C7413,R2008,1945,40,Cash on Delivery,50 off Promo,194,31,100,2024-01-04 06:20:00,2024-01-04 07:12:00,Thursday,Thursday,6,7,50 off Promo
+842,C7941,R2773,1632,40,Cash on Delivery,5% on App,68,26,150,2024-02-07 10:39:00,2024-02-07 12:18:00,Wednesday,Wednesday,10,12,5% on App
+843,C5820,R2072,1918,0,Digital Wallet,15% New User,119,32,150,2024-02-02 00:51:00,2024-02-02 02:40:00,Friday,Friday,0,2,15% New User
+844,C3898,R2358,368,50,Digital Wallet,10%,112,45,0,2024-02-07 18:24:00,2024-02-07 18:55:00,Wednesday,Wednesday,18,18,10%
+845,C8546,R2222,1876,20,Credit Card,10%,124,18,0,2024-01-21 03:31:00,2024-01-21 04:24:00,Sunday,Sunday,3,4,10%
+846,C1077,R2415,514,0,Credit Card,50 off Promo,153,11,0,2024-01-23 09:31:00,2024-01-23 10:17:00,Tuesday,Tuesday,9,10,50 off Promo
+847,C8577,R2552,1368,50,Credit Card,50 off Promo,124,41,0,2024-01-09 14:59:00,2024-01-09 16:33:00,Tuesday,Tuesday,14,16,50 off Promo
+848,C5227,R2369,1115,20,Digital Wallet,,177,31,0,2024-01-30 10:51:00,2024-01-30 12:30:00,Tuesday,Tuesday,10,12,No Discount
+849,C1600,R2715,774,40,Cash on Delivery,,105,22,0,2024-02-03 12:21:00,2024-02-03 13:59:00,Saturday,Saturday,12,13,No Discount
+850,C2065,R2263,1183,20,Credit Card,,71,17,0,2024-01-05 19:49:00,2024-01-05 21:18:00,Friday,Friday,19,21,No Discount
+851,C3136,R2839,105,30,Cash on Delivery,50 off Promo,138,10,0,2024-01-12 23:01:00,2024-01-13 00:20:00,Friday,Saturday,23,0,50 off Promo
+852,C7943,R2689,1832,20,Credit Card,,68,26,0,2024-02-04 07:56:00,2024-02-04 08:37:00,Sunday,Sunday,7,8,No Discount
+853,C8804,R2859,1081,30,Credit Card,,75,21,0,2024-01-08 05:32:00,2024-01-08 06:48:00,Monday,Monday,5,6,No Discount
+854,C7565,R2317,669,20,Credit Card,15% New User,72,13,0,2024-01-31 08:03:00,2024-01-31 09:39:00,Wednesday,Wednesday,8,9,15% New User
+855,C6984,R2083,1940,30,Credit Card,,96,22,50,2024-01-19 07:34:00,2024-01-19 09:08:00,Friday,Friday,7,9,No Discount
+856,C6142,R2317,506,40,Credit Card,10%,62,40,0,2024-01-20 10:46:00,2024-01-20 11:42:00,Saturday,Saturday,10,11,10%
+857,C5670,R2110,1340,50,Cash on Delivery,50 off Promo,115,50,0,2024-01-07 06:43:00,2024-01-07 08:00:00,Sunday,Sunday,6,8,50 off Promo
+858,C3190,R2250,125,30,Credit Card,5% on App,193,16,0,2024-01-23 13:09:00,2024-01-23 15:06:00,Tuesday,Tuesday,13,15,5% on App
+859,C3712,R2382,1938,30,Cash on Delivery,15% New User,122,32,0,2024-01-21 11:48:00,2024-01-21 13:19:00,Sunday,Sunday,11,13,15% New User
+860,C3192,R2006,1128,40,Digital Wallet,50 off Promo,126,33,0,2024-01-14 11:11:00,2024-01-14 12:24:00,Sunday,Sunday,11,12,50 off Promo
+861,C2248,R2458,1085,30,Credit Card,50 off Promo,80,14,0,2024-01-07 08:13:00,2024-01-07 09:01:00,Sunday,Sunday,8,9,50 off Promo
+862,C5033,R2083,1655,0,Cash on Delivery,10%,134,14,0,2024-01-26 11:24:00,2024-01-26 12:52:00,Friday,Friday,11,12,10%
+863,C2997,R2207,489,40,Digital Wallet,,108,26,0,2024-01-16 04:39:00,2024-01-16 05:16:00,Tuesday,Tuesday,4,5,No Discount
+864,C4687,R2899,809,0,Digital Wallet,10%,90,39,50,2024-02-01 17:24:00,2024-02-01 18:48:00,Thursday,Thursday,17,18,10%
+865,C5018,R2389,670,40,Digital Wallet,,161,18,150,2024-01-15 08:17:00,2024-01-15 09:33:00,Monday,Monday,8,9,No Discount
+866,C2970,R2313,1571,30,Cash on Delivery,,145,15,0,2024-02-07 08:03:00,2024-02-07 08:34:00,Wednesday,Wednesday,8,8,No Discount
+867,C9389,R2021,853,0,Credit Card,50 off Promo,171,34,0,2024-01-23 07:20:00,2024-01-23 08:28:00,Tuesday,Tuesday,7,8,50 off Promo
+868,C6765,R2409,245,30,Credit Card,,154,28,0,2024-01-02 04:56:00,2024-01-02 06:10:00,Tuesday,Tuesday,4,6,No Discount
+869,C2202,R2894,1511,40,Cash on Delivery,15% New User,123,25,150,2024-02-02 13:42:00,2024-02-02 14:43:00,Friday,Friday,13,14,15% New User
+870,C9135,R2514,884,30,Credit Card,15% New User,181,30,0,2024-01-13 12:40:00,2024-01-13 14:14:00,Saturday,Saturday,12,14,15% New User
+871,C6567,R2126,1372,0,Cash on Delivery,15% New User,148,11,0,2024-01-11 19:08:00,2024-01-11 20:15:00,Thursday,Thursday,19,20,15% New User
+872,C8667,R2808,625,0,Credit Card,50 off Promo,175,19,0,2024-01-16 11:48:00,2024-01-16 13:34:00,Tuesday,Tuesday,11,13,50 off Promo
+873,C6742,R2699,1585,30,Digital Wallet,10%,187,25,0,2024-01-12 21:10:00,2024-01-12 21:50:00,Friday,Friday,21,21,10%
+874,C6788,R2873,112,20,Credit Card,5% on App,124,46,100,2024-01-26 01:27:00,2024-01-26 02:06:00,Friday,Friday,1,2,5% on App
+875,C6408,R2013,1002,40,Cash on Delivery,,63,24,0,2024-01-18 02:30:00,2024-01-18 03:58:00,Thursday,Thursday,2,3,No Discount
+876,C9669,R2970,483,40,Cash on Delivery,5% on App,87,22,100,2024-02-05 23:43:00,2024-02-06 01:42:00,Monday,Tuesday,23,1,5% on App
+877,C1922,R2977,655,30,Digital Wallet,10%,189,22,0,2024-02-07 05:00:00,2024-02-07 06:24:00,Wednesday,Wednesday,5,6,10%
+878,C1419,R2011,986,20,Cash on Delivery,10%,94,41,0,2024-01-20 21:47:00,2024-01-20 22:36:00,Saturday,Saturday,21,22,10%
+879,C3204,R2086,1522,0,Credit Card,50 off Promo,194,17,0,2024-01-31 21:45:00,2024-01-31 23:35:00,Wednesday,Wednesday,21,23,50 off Promo
+880,C2120,R2523,118,50,Credit Card,15% New User,124,27,0,2024-01-06 15:04:00,2024-01-06 15:50:00,Saturday,Saturday,15,15,15% New User
+881,C1950,R2908,674,50,Digital Wallet,15% New User,78,45,0,2024-01-04 11:01:00,2024-01-04 12:38:00,Thursday,Thursday,11,12,15% New User
+882,C3336,R2536,1614,30,Cash on Delivery,10%,67,35,0,2024-01-14 09:34:00,2024-01-14 10:08:00,Sunday,Sunday,9,10,10%
+883,C6373,R2300,850,20,Digital Wallet,50 off Promo,69,19,0,2024-02-04 03:14:00,2024-02-04 04:43:00,Sunday,Sunday,3,4,50 off Promo
+884,C3243,R2242,1103,20,Credit Card,50 off Promo,63,40,0,2024-02-06 14:15:00,2024-02-06 15:07:00,Tuesday,Tuesday,14,15,50 off Promo
+885,C3645,R2121,518,40,Digital Wallet,,103,42,0,2024-01-15 23:42:00,2024-01-16 00:57:00,Monday,Tuesday,23,0,No Discount
+886,C5612,R2146,1460,0,Cash on Delivery,15% New User,80,38,150,2024-01-29 23:43:00,2024-01-30 01:04:00,Monday,Tuesday,23,1,15% New User
+887,C2865,R2566,518,20,Digital Wallet,10%,107,14,0,2024-01-15 09:21:00,2024-01-15 10:00:00,Monday,Monday,9,10,10%
+888,C7028,R2749,1735,50,Cash on Delivery,5% on App,153,22,0,2024-01-24 10:58:00,2024-01-24 12:13:00,Wednesday,Wednesday,10,12,5% on App
+889,C8326,R2355,1798,0,Cash on Delivery,15% New User,177,10,0,2024-01-11 09:06:00,2024-01-11 10:03:00,Thursday,Thursday,9,10,15% New User
+890,C7371,R2684,221,0,Credit Card,,74,32,0,2024-02-07 04:57:00,2024-02-07 06:09:00,Wednesday,Wednesday,4,6,No Discount
+891,C7359,R2903,531,30,Credit Card,50 off Promo,68,49,0,2024-01-28 22:46:00,2024-01-28 23:41:00,Sunday,Sunday,22,23,50 off Promo
+892,C8863,R2732,143,20,Credit Card,10%,185,12,150,2024-01-06 03:03:00,2024-01-06 04:27:00,Saturday,Saturday,3,4,10%
+893,C4228,R2630,1995,30,Cash on Delivery,15% New User,52,12,100,2024-01-13 14:57:00,2024-01-13 16:14:00,Saturday,Saturday,14,16,15% New User
+894,C4719,R2308,1440,20,Digital Wallet,5% on App,135,16,0,2024-02-05 15:45:00,2024-02-05 16:43:00,Monday,Monday,15,16,5% on App
+895,C3371,R2694,480,40,Cash on Delivery,,194,45,0,2024-01-27 01:00:00,2024-01-27 01:56:00,Saturday,Saturday,1,1,No Discount
+896,C3891,R2287,244,30,Credit Card,,191,44,150,2024-02-02 07:06:00,2024-02-02 07:53:00,Friday,Friday,7,7,No Discount
+897,C4756,R2306,1450,30,Credit Card,15% New User,58,24,50,2024-01-27 07:09:00,2024-01-27 08:38:00,Saturday,Saturday,7,8,15% New User
+898,C5225,R2811,462,50,Digital Wallet,5% on App,143,49,0,2024-02-03 04:21:00,2024-02-03 06:04:00,Saturday,Saturday,4,6,5% on App
+899,C1094,R2593,1173,30,Credit Card,,198,12,0,2024-02-07 01:51:00,2024-02-07 03:29:00,Wednesday,Wednesday,1,3,No Discount
+900,C3674,R2965,1188,20,Credit Card,10%,188,38,0,2024-01-21 15:58:00,2024-01-21 17:41:00,Sunday,Sunday,15,17,10%
+901,C7898,R2913,454,50,Credit Card,,69,39,100,2024-01-16 05:36:00,2024-01-16 06:26:00,Tuesday,Tuesday,5,6,No Discount
+902,C1793,R2722,899,30,Digital Wallet,5% on App,84,48,0,2024-01-04 08:49:00,2024-01-04 09:42:00,Thursday,Thursday,8,9,5% on App
+903,C3116,R2661,1287,30,Cash on Delivery,50 off Promo,102,27,150,2024-01-08 15:46:00,2024-01-08 16:18:00,Monday,Monday,15,16,50 off Promo
+904,C6779,R2548,1264,40,Credit Card,50 off Promo,159,20,100,2024-01-22 03:47:00,2024-01-22 05:18:00,Monday,Monday,3,5,50 off Promo
+905,C7166,R2351,925,30,Digital Wallet,15% New User,185,47,0,2024-01-26 03:43:00,2024-01-26 04:14:00,Friday,Friday,3,4,15% New User
+906,C1814,R2311,1251,0,Credit Card,5% on App,53,49,0,2024-02-05 06:49:00,2024-02-05 08:24:00,Monday,Monday,6,8,5% on App
+907,C1345,R2872,497,50,Digital Wallet,,151,10,0,2024-01-17 07:37:00,2024-01-17 08:48:00,Wednesday,Wednesday,7,8,No Discount
+908,C9554,R2058,979,0,Credit Card,,96,38,150,2024-01-03 02:22:00,2024-01-03 03:25:00,Wednesday,Wednesday,2,3,No Discount
+909,C3443,R2642,562,50,Digital Wallet,50 off Promo,143,19,0,2024-01-29 06:53:00,2024-01-29 08:04:00,Monday,Monday,6,8,50 off Promo
+910,C8783,R2923,1874,40,Credit Card,50 off Promo,97,37,0,2024-01-30 02:43:00,2024-01-30 03:32:00,Tuesday,Tuesday,2,3,50 off Promo
+911,C1984,R2713,1959,30,Cash on Delivery,10%,140,40,0,2024-01-16 11:41:00,2024-01-16 13:18:00,Tuesday,Tuesday,11,13,10%
+912,C8790,R2754,907,30,Credit Card,50 off Promo,133,28,150,2024-01-15 22:40:00,2024-01-15 23:54:00,Monday,Monday,22,23,50 off Promo
+913,C1827,R2034,286,30,Digital Wallet,10%,117,12,0,2024-01-11 19:21:00,2024-01-11 21:05:00,Thursday,Thursday,19,21,10%
+914,C4531,R2444,1843,50,Credit Card,,188,45,0,2024-01-25 15:55:00,2024-01-25 17:06:00,Thursday,Thursday,15,17,No Discount
+915,C8147,R2092,831,30,Cash on Delivery,10%,174,24,50,2024-01-31 14:11:00,2024-01-31 15:27:00,Wednesday,Wednesday,14,15,10%
+916,C5451,R2949,1313,0,Credit Card,10%,122,42,0,2024-02-01 05:50:00,2024-02-01 06:24:00,Thursday,Thursday,5,6,10%
+917,C4876,R2958,1511,30,Digital Wallet,15% New User,53,50,0,2024-01-18 09:06:00,2024-01-18 11:04:00,Thursday,Thursday,9,11,15% New User
+918,C6959,R2206,528,40,Digital Wallet,50 off Promo,125,35,0,2024-01-22 15:10:00,2024-01-22 16:28:00,Monday,Monday,15,16,50 off Promo
+919,C1126,R2352,957,0,Cash on Delivery,10%,122,25,0,2024-01-04 14:39:00,2024-01-04 15:45:00,Thursday,Thursday,14,15,10%
+920,C4177,R2902,1407,30,Digital Wallet,,126,45,150,2024-01-25 14:59:00,2024-01-25 16:02:00,Thursday,Thursday,14,16,No Discount
+921,C9795,R2331,1987,30,Credit Card,5% on App,97,42,0,2024-01-26 18:06:00,2024-01-26 19:48:00,Friday,Friday,18,19,5% on App
+922,C7024,R2816,336,20,Credit Card,10%,151,29,150,2024-01-09 13:21:00,2024-01-09 15:00:00,Tuesday,Tuesday,13,15,10%
+923,C6109,R2861,1317,50,Credit Card,50 off Promo,155,22,0,2024-01-19 02:44:00,2024-01-19 03:31:00,Friday,Friday,2,3,50 off Promo
+924,C5146,R2724,1410,0,Digital Wallet,15% New User,126,42,50,2024-02-06 01:11:00,2024-02-06 02:58:00,Tuesday,Tuesday,1,2,15% New User
+925,C8196,R2158,870,20,Credit Card,,88,14,50,2024-01-08 10:05:00,2024-01-08 10:53:00,Monday,Monday,10,10,No Discount
+926,C4368,R2953,857,40,Credit Card,15% New User,107,46,100,2024-01-03 04:21:00,2024-01-03 06:08:00,Wednesday,Wednesday,4,6,15% New User
+927,C4797,R2956,235,50,Credit Card,5% on App,68,23,0,2024-02-06 05:13:00,2024-02-06 06:22:00,Tuesday,Tuesday,5,6,5% on App
+928,C2792,R2023,891,0,Cash on Delivery,10%,137,36,0,2024-01-29 23:47:00,2024-01-30 00:33:00,Monday,Tuesday,23,0,10%
+929,C6732,R2403,1906,30,Digital Wallet,10%,162,32,0,2024-01-06 20:06:00,2024-01-06 21:35:00,Saturday,Saturday,20,21,10%
+930,C4476,R2804,270,0,Digital Wallet,50 off Promo,126,23,0,2024-01-06 23:29:00,2024-01-07 00:40:00,Saturday,Sunday,23,0,50 off Promo
+931,C4417,R2515,258,30,Digital Wallet,10%,126,49,0,2024-01-08 16:21:00,2024-01-08 18:11:00,Monday,Monday,16,18,10%
+932,C2645,R2731,300,50,Cash on Delivery,,77,13,0,2024-01-27 04:38:00,2024-01-27 06:19:00,Saturday,Saturday,4,6,No Discount
+933,C4030,R2363,1610,30,Digital Wallet,5% on App,115,48,0,2024-01-13 16:17:00,2024-01-13 17:51:00,Saturday,Saturday,16,17,5% on App
+934,C3872,R2381,1680,40,Cash on Delivery,15% New User,59,28,0,2024-01-03 19:35:00,2024-01-03 20:57:00,Wednesday,Wednesday,19,20,15% New User
+935,C4072,R2531,1061,30,Cash on Delivery,5% on App,175,13,0,2024-02-07 11:52:00,2024-02-07 12:28:00,Wednesday,Wednesday,11,12,5% on App
+936,C2854,R2955,1899,40,Digital Wallet,10%,107,39,50,2024-02-01 22:21:00,2024-02-01 22:55:00,Thursday,Thursday,22,22,10%
+937,C5021,R2151,682,50,Credit Card,15% New User,191,28,0,2024-01-27 22:08:00,2024-01-27 23:01:00,Saturday,Saturday,22,23,15% New User
+938,C5662,R2561,1627,50,Credit Card,50 off Promo,174,40,0,2024-01-31 07:36:00,2024-01-31 08:33:00,Wednesday,Wednesday,7,8,50 off Promo
+939,C7514,R2688,975,0,Digital Wallet,5% on App,161,40,50,2024-01-21 03:11:00,2024-01-21 04:42:00,Sunday,Sunday,3,4,5% on App
+940,C6031,R2946,470,40,Digital Wallet,15% New User,133,18,100,2024-01-25 21:17:00,2024-01-25 22:03:00,Thursday,Thursday,21,22,15% New User
+941,C3708,R2607,202,40,Cash on Delivery,15% New User,192,22,0,2024-01-18 15:58:00,2024-01-18 16:47:00,Thursday,Thursday,15,16,15% New User
+942,C8112,R2616,1101,20,Digital Wallet,15% New User,145,23,0,2024-01-13 09:44:00,2024-01-13 10:16:00,Saturday,Saturday,9,10,15% New User
+943,C9393,R2419,1248,20,Cash on Delivery,,82,19,0,2024-01-24 11:10:00,2024-01-24 12:16:00,Wednesday,Wednesday,11,12,No Discount
+944,C4507,R2249,1436,20,Digital Wallet,5% on App,194,40,0,2024-01-26 05:42:00,2024-01-26 07:41:00,Friday,Friday,5,7,5% on App
+945,C7456,R2116,1075,30,Credit Card,15% New User,190,46,0,2024-01-10 09:25:00,2024-01-10 10:09:00,Wednesday,Wednesday,9,10,15% New User
+946,C5212,R2865,897,20,Credit Card,5% on App,96,32,0,2024-02-02 19:20:00,2024-02-02 20:40:00,Friday,Friday,19,20,5% on App
+947,C8970,R2511,1581,40,Digital Wallet,15% New User,161,36,0,2024-01-07 19:05:00,2024-01-07 20:22:00,Sunday,Sunday,19,20,15% New User
+948,C9766,R2739,1353,30,Cash on Delivery,50 off Promo,193,15,0,2024-01-28 13:35:00,2024-01-28 14:12:00,Sunday,Sunday,13,14,50 off Promo
+949,C1536,R2577,757,50,Credit Card,50 off Promo,92,35,0,2024-01-22 17:39:00,2024-01-22 18:21:00,Monday,Monday,17,18,50 off Promo
+950,C2625,R2334,981,0,Cash on Delivery,50 off Promo,57,11,150,2024-01-31 07:51:00,2024-01-31 09:08:00,Wednesday,Wednesday,7,9,50 off Promo
+951,C8973,R2417,1320,20,Digital Wallet,10%,52,22,0,2024-01-09 21:38:00,2024-01-09 22:10:00,Tuesday,Tuesday,21,22,10%
+952,C9577,R2931,832,50,Digital Wallet,15% New User,174,28,0,2024-01-28 04:35:00,2024-01-28 06:09:00,Sunday,Sunday,4,6,15% New User
+953,C9070,R2773,522,40,Credit Card,10%,61,10,0,2024-02-03 04:19:00,2024-02-03 06:01:00,Saturday,Saturday,4,6,10%
+954,C9666,R2294,671,0,Digital Wallet,5% on App,133,49,150,2024-01-16 11:22:00,2024-01-16 12:22:00,Tuesday,Tuesday,11,12,5% on App
+955,C9609,R2937,1733,50,Credit Card,10%,65,41,0,2024-01-27 00:25:00,2024-01-27 01:20:00,Saturday,Saturday,0,1,10%
+956,C7490,R2754,270,0,Cash on Delivery,5% on App,127,31,0,2024-01-02 20:33:00,2024-01-02 22:23:00,Tuesday,Tuesday,20,22,5% on App
+957,C4600,R2370,1505,20,Credit Card,5% on App,108,38,0,2024-01-20 21:30:00,2024-01-20 22:55:00,Saturday,Saturday,21,22,5% on App
+958,C7783,R2185,272,40,Credit Card,5% on App,112,11,0,2024-01-30 11:29:00,2024-01-30 12:32:00,Tuesday,Tuesday,11,12,5% on App
+959,C5971,R2245,762,0,Cash on Delivery,10%,98,49,0,2024-01-19 06:19:00,2024-01-19 06:57:00,Friday,Friday,6,6,10%
+960,C2205,R2636,552,50,Credit Card,15% New User,100,47,0,2024-01-11 11:08:00,2024-01-11 12:39:00,Thursday,Thursday,11,12,15% New User
+961,C2990,R2267,449,20,Credit Card,10%,82,20,0,2024-01-17 06:26:00,2024-01-17 07:08:00,Wednesday,Wednesday,6,7,10%
+962,C6299,R2642,1757,20,Digital Wallet,15% New User,79,26,150,2024-01-01 19:08:00,2024-01-01 20:46:00,Monday,Monday,19,20,15% New User
+963,C4572,R2236,593,50,Cash on Delivery,15% New User,125,17,100,2024-01-10 14:34:00,2024-01-10 15:44:00,Wednesday,Wednesday,14,15,15% New User
+964,C6975,R2529,719,50,Credit Card,5% on App,64,31,0,2024-02-01 19:06:00,2024-02-01 20:52:00,Thursday,Thursday,19,20,5% on App
+965,C7320,R2551,1127,0,Cash on Delivery,10%,131,13,0,2024-02-05 01:09:00,2024-02-05 01:39:00,Monday,Monday,1,1,10%
+966,C5380,R2020,1216,30,Cash on Delivery,15% New User,141,20,100,2024-01-31 12:55:00,2024-01-31 14:53:00,Wednesday,Wednesday,12,14,15% New User
+967,C5757,R2910,1018,20,Credit Card,50 off Promo,72,17,0,2024-01-25 08:38:00,2024-01-25 09:54:00,Thursday,Thursday,8,9,50 off Promo
+968,C3713,R2736,105,0,Digital Wallet,15% New User,143,18,0,2024-01-30 06:03:00,2024-01-30 06:36:00,Tuesday,Tuesday,6,6,15% New User
+969,C6588,R2866,387,50,Cash on Delivery,50 off Promo,94,35,0,2024-01-20 19:27:00,2024-01-20 20:59:00,Saturday,Saturday,19,20,50 off Promo
+970,C1966,R2793,1741,0,Credit Card,10%,111,11,50,2024-01-20 19:27:00,2024-01-20 20:48:00,Saturday,Saturday,19,20,10%
+971,C5944,R2519,1269,50,Cash on Delivery,10%,64,25,0,2024-02-07 04:28:00,2024-02-07 05:07:00,Wednesday,Wednesday,4,5,10%
+972,C4432,R2099,1906,40,Digital Wallet,10%,95,40,0,2024-02-05 01:17:00,2024-02-05 02:14:00,Monday,Monday,1,2,10%
+973,C1688,R2751,1547,50,Digital Wallet,15% New User,113,15,150,2024-01-19 22:14:00,2024-01-19 22:49:00,Friday,Friday,22,22,15% New User
+974,C5243,R2477,707,50,Digital Wallet,,124,30,0,2024-01-28 20:01:00,2024-01-28 20:57:00,Sunday,Sunday,20,20,No Discount
+975,C4701,R2598,556,50,Credit Card,15% New User,101,35,0,2024-02-05 03:51:00,2024-02-05 04:32:00,Monday,Monday,3,4,15% New User
+976,C9533,R2297,1864,30,Credit Card,15% New User,137,28,0,2024-01-30 18:12:00,2024-01-30 19:43:00,Tuesday,Tuesday,18,19,15% New User
+977,C6182,R2939,1325,50,Digital Wallet,5% on App,106,37,0,2024-01-26 19:20:00,2024-01-26 20:41:00,Friday,Friday,19,20,5% on App
+978,C7704,R2525,1335,20,Credit Card,5% on App,132,17,50,2024-01-21 14:02:00,2024-01-21 15:19:00,Sunday,Sunday,14,15,5% on App
+979,C5422,R2333,1129,20,Digital Wallet,15% New User,115,23,100,2024-02-02 06:59:00,2024-02-02 08:35:00,Friday,Friday,6,8,15% New User
+980,C2759,R2001,723,0,Credit Card,50 off Promo,199,33,0,2024-01-08 16:41:00,2024-01-08 17:56:00,Monday,Monday,16,17,50 off Promo
+981,C3482,R2374,475,30,Digital Wallet,5% on App,69,46,0,2024-01-17 08:47:00,2024-01-17 10:30:00,Wednesday,Wednesday,8,10,5% on App
+982,C9058,R2292,546,0,Cash on Delivery,15% New User,82,35,0,2024-01-12 00:30:00,2024-01-12 01:14:00,Friday,Friday,0,1,15% New User
+983,C1951,R2836,934,20,Digital Wallet,,121,40,0,2024-01-01 05:27:00,2024-01-01 07:07:00,Monday,Monday,5,7,No Discount
+984,C9914,R2933,1229,20,Digital Wallet,50 off Promo,74,41,0,2024-01-01 20:33:00,2024-01-01 21:38:00,Monday,Monday,20,21,50 off Promo
+985,C3079,R2552,1774,40,Credit Card,10%,95,50,0,2024-01-26 23:40:00,2024-01-27 00:23:00,Friday,Saturday,23,0,10%
+986,C3717,R2317,910,50,Credit Card,15% New User,122,11,150,2024-01-12 04:46:00,2024-01-12 06:33:00,Friday,Friday,4,6,15% New User
+987,C5524,R2501,1524,20,Credit Card,15% New User,147,34,0,2024-01-24 03:11:00,2024-01-24 03:43:00,Wednesday,Wednesday,3,3,15% New User
+988,C9477,R2827,1219,0,Credit Card,50 off Promo,106,11,0,2024-01-06 15:13:00,2024-01-06 16:49:00,Saturday,Saturday,15,16,50 off Promo
+989,C8311,R2380,1511,0,Credit Card,5% on App,136,10,0,2024-01-31 06:48:00,2024-01-31 08:43:00,Wednesday,Wednesday,6,8,5% on App
+990,C8186,R2622,1058,50,Credit Card,5% on App,182,45,0,2024-01-09 17:54:00,2024-01-09 18:42:00,Tuesday,Tuesday,17,18,5% on App
+991,C3065,R2013,1575,50,Cash on Delivery,5% on App,104,21,0,2024-01-26 21:40:00,2024-01-26 23:25:00,Friday,Friday,21,23,5% on App
+992,C1768,R2503,948,40,Digital Wallet,10%,110,18,0,2024-01-04 03:00:00,2024-01-04 04:23:00,Thursday,Thursday,3,4,10%
+993,C6490,R2230,908,30,Digital Wallet,50 off Promo,138,45,0,2024-01-18 01:39:00,2024-01-18 03:17:00,Thursday,Thursday,1,3,50 off Promo
+994,C7645,R2984,1078,0,Digital Wallet,50 off Promo,57,50,0,2024-01-28 21:10:00,2024-01-28 21:49:00,Sunday,Sunday,21,21,50 off Promo
+995,C6083,R2083,515,50,Cash on Delivery,5% on App,65,37,0,2024-01-07 13:14:00,2024-01-07 14:16:00,Sunday,Sunday,13,14,5% on App
+996,C6232,R2129,825,0,Digital Wallet,5% on App,165,47,50,2024-01-14 05:57:00,2024-01-14 06:39:00,Sunday,Sunday,5,6,5% on App
+997,C6797,R2742,1627,50,Cash on Delivery,,110,42,0,2024-01-28 08:50:00,2024-01-28 10:10:00,Sunday,Sunday,8,10,No Discount
+998,C5926,R2837,553,20,Cash on Delivery,,64,31,0,2024-01-21 09:43:00,2024-01-21 10:44:00,Sunday,Sunday,9,10,No Discount
+999,C7016,R2144,1414,0,Cash on Delivery,15% New User,199,34,0,2024-01-30 22:23:00,2024-01-31 00:07:00,Tuesday,Wednesday,22,0,15% New User
+1000,C4335,R2890,1657,20,Digital Wallet,15% New User,180,27,100,2024-01-08 14:46:00,2024-01-08 15:39:00,Monday,Monday,14,15,15% New User
