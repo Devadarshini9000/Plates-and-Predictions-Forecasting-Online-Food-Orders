@@ -5,13 +5,13 @@ It allows restaurants, aggregators, and food delivery platforms to analyze order
 
 ## 🚀 Features
 
--📊 Order Distribution Insights across hour, weekday, and month
--📈 Weekly Order Forecasting using Simple Moving Average (SMA)
--🛍 Customer Loyalty Analysis based on purchase frequency and restaurant diversity
--🏆 Key Metrics Dashboard – delivery times, payment preferences, and peak order times
--🍴 Top Restaurants Analysis by order count
--🔄 Churn Rate Calculation to identify inactive customers
--📉 Visualized insights via an interactive Streamlit dashboard
+📊 Order Distribution Insights across hour, weekday, and month
+📈 Weekly Order Forecasting using Simple Moving Average (SMA)
+🛍 Customer Loyalty Analysis based on purchase frequency and restaurant diversity
+🏆 Key Metrics Dashboard – delivery times, payment preferences, and peak order times
+🍴 Top Restaurants Analysis by order count
+🔄 Churn Rate Calculation to identify inactive customers
+📉 Visualized insights via an interactive Streamlit dashboard
 
 ## 📂 Project Structure
 
