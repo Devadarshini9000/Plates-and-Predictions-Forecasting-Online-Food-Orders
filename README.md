@@ -1,25 +1,25 @@
-# 🍽️ Plates and Predictions – Forecasting Online Food Orders**
+# 🍽️ Plates and Predictions – Forecasting Online Food Orders
 
-Plates and Predictions is an interactive data analysis and forecasting web application for online food orders.
+**Plates and Predictions** is an interactive data analysis and forecasting web application for online food orders.
 It allows restaurants, aggregators, and food delivery platforms to analyze order patterns, predict demand, and track customer loyalty & churn using real order data.
 
 ## 🚀 Features
 
-📊 Order Distribution Insights across hour, weekday, and month
-📈 Weekly Order Forecasting using Simple Moving Average (SMA)
-🛍 Customer Loyalty Analysis based on purchase frequency and restaurant diversity
-🏆 Key Metrics Dashboard – delivery times, payment preferences, and peak order times
-🍴 Top Restaurants Analysis by order count
-🔄 Churn Rate Calculation to identify inactive customers
-📉 Visualized insights via an interactive Streamlit dashboard
+-📊 Order Distribution Insights across hour, weekday, and month
+-📈 Weekly Order Forecasting using Simple Moving Average (SMA)
+-🛍 Customer Loyalty Analysis based on purchase frequency and restaurant diversity
+-🏆 Key Metrics Dashboard – delivery times, payment preferences, and peak order times
+-🍴 Top Restaurants Analysis by order count
+-🔄 Churn Rate Calculation to identify inactive customers
+-📉 Visualized insights via an interactive Streamlit dashboard
 
 ## 📂 Project Structure
 
-├── preprocessed_online_food_orders.csv   # Cleaned dataset
-├── prep.py                               # Script for dataset preprocessing
-├── key.py                                # Helper functions for plotting & preprocessing
-├── Streamlit.py                          # Main Streamlit app
-├── README.md                             # Documentation
+-├── preprocessed_online_food_orders.csv   # Cleaned dataset
+-├── prep.py                               # Script for dataset preprocessing
+-├── key.py                                # Helper functions for plotting & preprocessing
+-├── Streamlit.py                          # Main Streamlit app
+-├── README.md                             # Documentation
 
 ## 🛠 Tech Stack
 
@@ -60,15 +60,15 @@ streamlit run Streamlit.py
 
 ## 💡 Use Cases
 
-📆 Demand Forecasting for restaurants and delivery platforms
-📊 Customer Retention & Loyalty Tracking
-🏪 Restaurant Performance Monitoring
-📈 Peak Time Identification for staffing and inventory planning
-🔄 Churn Reduction Strategies
+-📆 Demand Forecasting for restaurants and delivery platforms
+-📊 Customer Retention & Loyalty Tracking
+-🏪 Restaurant Performance Monitoring
+-📈 Peak Time Identification for staffing and inventory planning
+-🔄 Churn Reduction Strategies
 
-👩‍💻 Author
-Devadarshini P
-🔗 LinkedIn
-💻 GitHub
+## 👩‍💻 Author
+**Devadarshini P**  
+[🔗 LinkedIn](https://www.linkedin.com/in/devadarshini-p-707b15202/)  
+[💻 GitHub](https://github.com/Devadarshini9000)
 
 "Predict tastes. Predict trends. Serve smarter." – Plates and Predictions
