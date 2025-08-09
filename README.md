@@ -46,17 +46,17 @@ Churn Analysis: Finds customers inactive for 180+ days
 
 ## 🖥 How to Run the App
 
-1️⃣ Clone the Repo
+### 1️⃣ Clone the Repo
 git clone https://github.com/yourusername/plates-and-predictions.git
 cd plates-and-predictions
 
-2️⃣ Install Requirements
+### 2️⃣ Install Requirements
 pip install streamlit pandas matplotlib seaborn numpy
 
-3️⃣ Run the Dashboard
+### 3️⃣ Run the Dashboard
 streamlit run Streamlit.py
 
-4️⃣ Upload Dataset (CSV) or use the provided preprocessed_online_food_orders.csv
+### 4️⃣ Upload Dataset (CSV) or use the provided preprocessed_online_food_orders.csv
 
 ## 💡 Use Cases
 
